@@ -13,3 +13,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-01 17:54
 - Documentation is essential for team collaboration.
+
+## 2023-01-01 15:06
+- Clean code is easier to understand and modify.
