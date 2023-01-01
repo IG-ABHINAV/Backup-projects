@@ -22,3 +22,7 @@ A collection of development insights and best practices.
 ## 2023-01-01 21:49
 - Clean code is easier to understand and modify.
 
+
+## 2023-01-01 21:51
+- Small, focused commits make debugging easier.
+
