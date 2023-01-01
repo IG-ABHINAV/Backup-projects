@@ -58,3 +58,7 @@ A collection of development insights and best practices.
 ## 2023-01-01 21:12
 - Good naming makes code self-documenting.
 
+
+## 2023-01-01 12:46
+- Modular design enables easier testing and reuse.
+
