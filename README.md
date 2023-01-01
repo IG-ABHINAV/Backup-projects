@@ -102,3 +102,7 @@ A collection of development insights and best practices.
 ## 2023-01-01 09:29
 - YAGNI: You Aren't Gonna Need It.
 
+
+## 2023-01-01 12:31
+- KISS: Keep It Simple, Stupid.
+
