@@ -61,3 +61,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-01 21:04
 - Incremental changes reduce risk.
+
+## 2023-01-01 12:38
+- Learning from mistakes is part of growth.
