@@ -19,3 +19,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-01 10:14
 - Small, focused commits make debugging easier.
+
+## 2023-01-01 12:01
+- Performance optimization should be based on profiling.
