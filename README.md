@@ -106,3 +106,7 @@ A collection of development insights and best practices.
 ## 2023-01-02 15:02
 - KISS: Keep It Simple, Stupid.
 
+
+## 2023-01-02 16:36
+- Separation of concerns improves maintainability.
+
