@@ -146,3 +146,7 @@ A collection of development insights and best practices.
 ## 2023-01-02 10:28
 - User feedback drives meaningful improvements.
 
+
+## 2023-01-02 13:52
+- Dependencies should be carefully evaluated.
+
