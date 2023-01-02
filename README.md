@@ -158,3 +158,7 @@ A collection of development insights and best practices.
 ## 2023-01-02 16:22
 - Code coverage metrics guide testing efforts.
 
+
+## 2023-01-02 14:09
+- Profiling reveals actual bottlenecks.
+
