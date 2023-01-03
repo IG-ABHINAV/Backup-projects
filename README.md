@@ -242,3 +242,7 @@ A collection of development insights and best practices.
 ## 2023-01-03 15:28
 - Security should be considered from the start.
 
+
+## 2023-01-03 11:58
+- Automated testing saves time in the long run.
+
