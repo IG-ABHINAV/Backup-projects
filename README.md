@@ -238,3 +238,7 @@ A collection of development insights and best practices.
 ## 2023-01-03 20:19
 - Error handling is as important as the happy path.
 
+
+## 2023-01-03 15:28
+- Security should be considered from the start.
+
