@@ -124,3 +124,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-03 15:46
 - Database indexing dramatically improves query performance.
+
+## 2023-01-03 09:50
+- Caching strategically reduces server load significantly.
