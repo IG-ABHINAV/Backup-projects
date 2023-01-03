@@ -115,3 +115,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-03 18:31
 - Build automation ensures consistency.
+
+## 2023-01-03 11:34
+- Code coverage metrics guide testing efforts.
