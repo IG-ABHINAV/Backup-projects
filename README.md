@@ -262,3 +262,7 @@ A collection of development insights and best practices.
 ## 2023-01-03 09:27
 - Modular design enables easier testing and reuse.
 
+
+## 2023-01-03 13:29
+- Version control enables safe experimentation.
+
