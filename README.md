@@ -145,3 +145,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-03 18:07
 - Continuous integration catches integration issues early.
+
+## 2023-01-03 11:10
+- Documentation should evolve with the codebase.
