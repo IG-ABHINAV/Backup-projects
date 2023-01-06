@@ -474,3 +474,7 @@ A collection of development insights and best practices.
 ## 2023-01-06 12:12
 - Understanding the problem deeply leads to better solutions.
 
+
+## 2023-01-06 13:32
+- Code should be optimized for readability first.
+
