@@ -538,3 +538,7 @@ A collection of development insights and best practices.
 ## 2023-01-07 17:54
 - API design affects long-term maintainability.
 
+
+## 2023-01-07 16:27
+- Edge cases reveal design weaknesses.
+
