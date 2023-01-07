@@ -400,3 +400,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-07 13:26
 - Scalability should be planned, not retrofitted.
+
+## 2023-01-07 13:27
+- API design affects long-term maintainability.
