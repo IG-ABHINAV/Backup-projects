@@ -610,3 +610,7 @@ A collection of development insights and best practices.
 ## 2023-01-07 11:26
 - Writing tests first helps clarify requirements.
 
+
+## 2023-01-07 09:36
+- Code reviews catch bugs early and share knowledge.
+
