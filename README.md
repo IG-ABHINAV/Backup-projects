@@ -650,3 +650,7 @@ A collection of development insights and best practices.
 ## 2023-01-08 17:54
 - Simple solutions are often the best solutions.
 
+
+## 2023-01-08 14:29
+- Technical debt should be addressed incrementally.
+
