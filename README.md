@@ -694,3 +694,7 @@ A collection of development insights and best practices.
 ## 2023-01-09 10:33
 - Design patterns solve common problems elegantly.
 
+
+## 2023-01-09 15:32
+- DRY principle: Don't Repeat Yourself.
+
