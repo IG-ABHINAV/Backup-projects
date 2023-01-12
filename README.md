@@ -688,3 +688,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-12 16:25
 - Logging helps diagnose production issues.
+
+## 2023-01-12 15:18
+- Configuration should be separate from code.
