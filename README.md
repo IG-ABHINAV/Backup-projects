@@ -691,3 +691,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-12 15:18
 - Configuration should be separate from code.
+
+## 2023-01-12 19:01
+- Backups prevent catastrophic data loss.
