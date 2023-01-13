@@ -986,3 +986,7 @@ A collection of development insights and best practices.
 ## 2023-01-13 16:13
 - Feature flags enable safer progressive rollouts.
 
+
+## 2023-01-13 19:23
+- Load testing reveals system breaking points.
+
