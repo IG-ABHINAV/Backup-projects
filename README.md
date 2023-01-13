@@ -1034,3 +1034,7 @@ A collection of development insights and best practices.
 ## 2023-01-13 20:53
 - Consistency in coding style reduces cognitive load.
 
+
+## 2023-01-13 18:55
+- Error handling is as important as the happy path.
+
