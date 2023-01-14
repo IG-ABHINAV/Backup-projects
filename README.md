@@ -772,3 +772,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-13 16:36
 - Performance optimization should be based on profiling.
+
+## 2023-01-14 20:24
+- Consistency in coding style reduces cognitive load.
