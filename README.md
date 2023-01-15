@@ -832,3 +832,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-15 15:26
 - Separation of concerns improves maintainability.
+
+## 2023-01-15 21:16
+- Immutability reduces bugs in concurrent code.
