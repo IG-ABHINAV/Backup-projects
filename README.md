@@ -1182,3 +1182,7 @@ A collection of development insights and best practices.
 ## 2023-01-15 19:49
 - Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-01-15 14:15
+- Feature flags enable safer progressive rollouts.
+
