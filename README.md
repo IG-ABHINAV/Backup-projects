@@ -934,3 +934,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-17 16:32
 - Automated testing saves time in the long run.
+
+## 2023-01-17 15:00
+- Simple solutions are often the best solutions.
