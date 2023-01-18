@@ -958,3 +958,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-17 19:40
 - Code should be optimized for readability first.
+
+## 2023-01-18 10:47
+- Incremental changes reduce risk.
