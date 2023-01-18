@@ -994,3 +994,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-18 12:25
 - Backups prevent catastrophic data loss.
+
+## 2023-01-18 13:04
+- Monitoring provides visibility into system health.
