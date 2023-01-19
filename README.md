@@ -1048,3 +1048,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-19 14:49
 - Documentation should evolve with the codebase.
+
+## 2023-01-19 17:16
+- Type safety catches errors at compile time.
