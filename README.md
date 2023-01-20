@@ -1147,3 +1147,6 @@ A collection of development insights and best practices.
 
 ## 2023-01-20 12:54
 - Monitoring provides visibility into system health.
+
+## 2023-01-20 19:15
+- Scalability should be planned, not retrofitted.
