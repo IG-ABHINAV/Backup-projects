@@ -26,3 +26,7 @@ A collection of development insights and best practices.
 ## 2023-01-23 17:54
 - refactor(ui): Small, focused commits make debugging easier.
 
+
+## 2023-01-23 09:51
+- chore(build): Performance optimization should be based on profiling.
+
