@@ -15,9 +15,8 @@ if (-not $Model) {
     $Model = "minimax/minimax-m2:free"
 }
 
-$startDate = Get-Date "2023-01-01"
+$startDate = Get-Date "2023-01-23"
 $endDate = Get-Date
-$firstMonthEnd = $startDate.AddMonths(1)
 
 function Get-AIThoughts {
     param(
@@ -168,7 +167,7 @@ node_modules/
 "@ | Out-File -FilePath ".gitignore" -Encoding UTF8
 
 Write-Host "Backfilling commits from $($startDate.ToString('yyyy-MM-dd')) to $($endDate.ToString('yyyy-MM-dd'))"
-Write-Host "Random commits: 15-25 commits/day (average ~20)"
+Write-Host "Lower activity: 8-9 commits/day with rare spikes up to 22"
 Write-Host "Including all days (no skipping Sundays)"
 Write-Host "Total thoughts available: $($thoughts.Count)"
 
@@ -176,35 +175,62 @@ $totalDays = 0
 $totalCommits = 0
 $thoughtIndex = 0
 
+# Commit metadata for special features
+$typesNormal = @('docs','docs','docs','docs','chore','refactor','test')
+$typesSpike  = @('feat','feat','fix','refactor','perf','docs')
+$scopes = @('api','ui','auth','db','build','deps','config','docs','release','tests')
+
+# Ensure directories for extra change files
+if (-not (Test-Path -Path 'public')) { New-Item -ItemType Directory -Path 'public' | Out-Null }
+if (-not (Test-Path -Path 'public/changes')) { New-Item -ItemType Directory -Path 'public/changes' | Out-Null }
+$changelog = 'public/changes/CHANGELOG.md'
+if (-not (Test-Path -Path $changelog)) { "# Changelog`n" | Out-File -FilePath $changelog -Encoding UTF8 }
+
 $current = $startDate
 while ($current -le $endDate) {
-    # Completely random commits per day: 15-25 for average of 20
-    $numCommits = Get-Random -Minimum 15 -Maximum 26
+    # Mostly 8-9 commits/day with rare spikes up to 22
+    $isSpikeDay = ((Get-Random -Minimum 1 -Maximum 101) -le 3) # ~3% of days
+    if ($isSpikeDay) {
+        $numCommits = Get-Random -Minimum 18 -Maximum 23
+    } else {
+        $numCommits = Get-Random -Minimum 8 -Maximum 10
+    }
     
     for ($i = 1; $i -le $numCommits; $i++) {
         # Random time between 9 AM and 9 PM
         $hour = Get-Random -Minimum 9 -Maximum 22
         $minute = Get-Random -Minimum 0 -Maximum 60
-        $commitTime = Get-Date -Year $current.Year -Month $current.Month -Day $current.Day -Hour $hour -Minute $minute -Second 0
+        $second = Get-Random -Minimum 0 -Maximum 60
+        $commitTime = Get-Date -Year $current.Year -Month $current.Month -Day $current.Day -Hour $hour -Minute $minute -Second $second
         $commitDate = $commitTime.ToString("yyyy-MM-dd HH:mm:ss")
         
-        # Add a meaningful thought to README
+        # Thought and commit metadata
         $thought = $thoughts[$thoughtIndex % $thoughts.Count]
         $thoughtIndex++
+        $commitType = if ($isSpikeDay) { Get-Random -InputObject $typesSpike } else { Get-Random -InputObject $typesNormal }
+        $scope = Get-Random -InputObject $scopes
+        $msg = "$commitType($scope): $thought"
         
-        $entry = "`n## $($commitTime.ToString('yyyy-MM-dd HH:mm'))`n- $thought`n"
+        # Update README timeline
+        $entry = "`n## $($commitTime.ToString('yyyy-MM-dd HH:mm'))`n- $msg`n"
         $entry | Out-File -FilePath "README.md" -Append -Encoding UTF8 -Force
         
+        # Update changelog for feature-like commits (special feature)
+        if ($commitType -in @('feat','fix','refactor','perf')) {
+            $cl = "- [$($commitTime.ToString('u'))] $msg"
+            $cl | Out-File -FilePath $changelog -Append -Encoding UTF8 -Force
+        }
+        
         # Ensure file is released before git operations
-        Start-Sleep -Milliseconds 200
+        Start-Sleep -Milliseconds 120
         
         # Commit with backdated timestamp
-        git add README.md 2>&1 | Out-Null
+        git add -A 2>&1 | Out-Null
         $env:GIT_AUTHOR_DATE = $commitDate
         $env:GIT_COMMITTER_DATE = $commitDate
-        git commit -m "docs: $($current.ToString('MMM dd')) - $thought" 2>&1 | Out-Null
+        git commit -m $msg 2>&1 | Out-Null
         
-        Write-Host "  [$i/$numCommits] $($commitTime.ToString('HH:mm')): $thought" -ForegroundColor Gray
+        Write-Host "  [$i/$numCommits] $($commitTime.ToString('HH:mm')): $msg" -ForegroundColor Gray
         
         $totalCommits++
     }
