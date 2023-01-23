@@ -18,3 +18,7 @@ A collection of development insights and best practices.
 ## 2023-01-23 14:54
 - docs(config): Documentation is essential for team collaboration.
 
+
+## 2023-01-23 10:46
+- test(db): Clean code is easier to understand and modify.
+
