@@ -22,3 +22,7 @@ A collection of development insights and best practices.
 ## 2023-01-23 20:26
 - docs(ui): Clean code is easier to understand and modify.
 
+
+## 2023-01-23 17:54
+- refactor(ui): Small, focused commits make debugging easier.
+
