@@ -42,3 +42,7 @@ A collection of development insights and best practices.
 ## 2023-01-24 19:23
 - docs(api): Security should be considered from the start.
 
+
+## 2023-01-24 17:25
+- test(api): Automated testing saves time in the long run.
+
