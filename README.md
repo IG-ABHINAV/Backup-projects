@@ -50,3 +50,7 @@ A collection of development insights and best practices.
 ## 2023-01-24 21:37
 - docs(tests): Simple solutions are often the best solutions.
 
+
+## 2023-01-24 19:08
+- refactor(api): Technical debt should be addressed incrementally.
+
