@@ -110,3 +110,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 13:58
 - feat(ui): Separation of concerns improves maintainability.
 
+
+## 2023-01-25 15:16
+- perf(build): Immutability reduces bugs in concurrent code.
+

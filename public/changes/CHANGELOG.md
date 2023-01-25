@@ -68,3 +68,4 @@
 - [2023-01-25 11:26:10Z] feat(ui): DRY principle: Don't Repeat Yourself.
 - [2023-01-25 14:34:39Z] fix(build): KISS: Keep It Simple, Stupid.
 - [2023-01-25 13:58:59Z] feat(ui): Separation of concerns improves maintainability.
+- [2023-01-25 15:16:26Z] perf(build): Immutability reduces bugs in concurrent code.
