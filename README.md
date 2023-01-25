@@ -106,3 +106,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 14:34
 - fix(build): KISS: Keep It Simple, Stupid.
 
+
+## 2023-01-25 13:58
+- feat(ui): Separation of concerns improves maintainability.
+
