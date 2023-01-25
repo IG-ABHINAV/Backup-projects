@@ -114,3 +114,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 15:16
 - perf(build): Immutability reduces bugs in concurrent code.
 
+
+## 2023-01-25 15:40
+- fix(deps): Logging helps diagnose production issues.
+
