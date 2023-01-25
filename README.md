@@ -94,3 +94,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 19:32
 - refactor(tests): Design patterns solve common problems elegantly.
 
+
+## 2023-01-25 20:04
+- chore(ui): DRY principle: Don't Repeat Yourself.
+
