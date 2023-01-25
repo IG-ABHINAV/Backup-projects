@@ -122,3 +122,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 10:32
 - feat(deps): Configuration should be separate from code.
 
+
+## 2023-01-25 18:44
+- feat(docs): Backups prevent catastrophic data loss.
+
