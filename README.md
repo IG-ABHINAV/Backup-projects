@@ -118,3 +118,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 15:40
 - fix(deps): Logging helps diagnose production issues.
 
+
+## 2023-01-25 10:32
+- feat(deps): Configuration should be separate from code.
+
