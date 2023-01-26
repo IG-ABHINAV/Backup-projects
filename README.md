@@ -118,3 +118,7 @@ A collection of development insights and best practices.
 ## 2023-01-26 12:02
 - docs(tests): Logging helps diagnose production issues.
 
+
+## 2023-01-26 17:07
+- docs(docs): Configuration should be separate from code.
+
