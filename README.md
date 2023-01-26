@@ -158,3 +158,7 @@ A collection of development insights and best practices.
 ## 2023-01-25 16:38
 - fix(tests): Code coverage metrics guide testing efforts.
 
+
+## 2023-01-26 12:44
+- refactor(ui): Profiling reveals actual bottlenecks.
+
