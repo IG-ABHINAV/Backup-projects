@@ -198,3 +198,7 @@ A collection of development insights and best practices.
 ## 2023-01-27 10:14
 - docs(deps): Documentation should evolve with the codebase.
 
+
+## 2023-01-27 19:58
+- refactor(release): Type safety catches errors at compile time.
+
