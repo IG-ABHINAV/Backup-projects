@@ -238,3 +238,7 @@ A collection of development insights and best practices.
 ## 2023-01-29 15:22
 - refactor(docs): Error handling is as important as the happy path.
 
+
+## 2023-01-29 19:47
+- docs(docs): Security should be considered from the start.
+
