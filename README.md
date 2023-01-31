@@ -334,3 +334,7 @@ A collection of development insights and best practices.
 ## 2023-01-31 17:21
 - docs(release): Scalability should be planned, not retrofitted.
 
+
+## 2023-01-31 10:43
+- refactor(auth): API design affects long-term maintainability.
+
