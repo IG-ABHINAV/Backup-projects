@@ -338,3 +338,7 @@ A collection of development insights and best practices.
 ## 2023-01-31 10:43
 - refactor(auth): API design affects long-term maintainability.
 
+
+## 2023-01-31 21:41
+- docs(db): Edge cases reveal design weaknesses.
+
