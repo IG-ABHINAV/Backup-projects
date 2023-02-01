@@ -322,3 +322,7 @@ A collection of development insights and best practices.
 ## 2023-02-01 21:07
 - test(db): Configuration should be separate from code.
 
+
+## 2023-02-01 13:39
+- docs(config): Backups prevent catastrophic data loss.
+
