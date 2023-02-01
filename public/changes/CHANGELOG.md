@@ -12,3 +12,4 @@
 - [2023-01-30 16:35:39Z] refactor(deps): Good naming makes code self-documenting.
 - [2023-01-31 19:48:12Z] refactor(docs): YAGNI: You Aren't Gonna Need It.
 - [2023-01-31 19:24:49Z] refactor(docs): KISS: Keep It Simple, Stupid.
+- [2023-02-01 21:14:20Z] refactor(config): Immutability reduces bugs in concurrent code.
