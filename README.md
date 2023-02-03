@@ -438,3 +438,7 @@ A collection of development insights and best practices.
 ## 2023-02-03 14:27
 - chore(release): Error handling is as important as the happy path.
 
+
+## 2023-02-03 14:36
+- test(build): Security should be considered from the start.
+
