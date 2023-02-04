@@ -426,3 +426,7 @@ A collection of development insights and best practices.
 ## 2023-02-04 15:55
 - docs(ui): Small, focused commits make debugging easier.
 
+
+## 2023-02-04 12:33
+- docs(config): Performance optimization should be based on profiling.
+
