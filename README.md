@@ -514,3 +514,7 @@ A collection of development insights and best practices.
 ## 2023-02-05 13:33
 - refactor(deps): Immutability reduces bugs in concurrent code.
 
+
+## 2023-02-05 20:42
+- test(auth): Logging helps diagnose production issues.
+
