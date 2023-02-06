@@ -494,3 +494,7 @@ A collection of development insights and best practices.
 ## 2023-02-06 10:12
 - docs(api): Design patterns solve common problems elegantly.
 
+
+## 2023-02-06 20:09
+- docs(ui): DRY principle: Don't Repeat Yourself.
+
