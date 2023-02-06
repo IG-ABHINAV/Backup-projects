@@ -530,3 +530,7 @@ A collection of development insights and best practices.
 ## 2023-02-06 20:10
 - refactor(release): Monitoring provides visibility into system health.
 
+
+## 2023-02-06 13:41
+- docs(docs): Scalability should be planned, not retrofitted.
+
