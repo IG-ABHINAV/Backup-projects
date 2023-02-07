@@ -558,3 +558,7 @@ A collection of development insights and best practices.
 ## 2023-02-06 10:23
 - chore(build): Code coverage metrics guide testing efforts.
 
+
+## 2023-02-07 16:18
+- chore(build): Profiling reveals actual bottlenecks.
+
