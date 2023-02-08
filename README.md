@@ -566,3 +566,7 @@ A collection of development insights and best practices.
 ## 2023-02-08 17:35
 - docs(ui): Database indexing dramatically improves query performance.
 
+
+## 2023-02-08 10:48
+- chore(docs): Caching strategically reduces server load significantly.
+
