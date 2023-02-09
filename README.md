@@ -598,3 +598,7 @@ A collection of development insights and best practices.
 ## 2023-02-09 10:19
 - docs(ui): Documentation should evolve with the codebase.
 
+
+## 2023-02-09 18:51
+- docs(release): Type safety catches errors at compile time.
+
