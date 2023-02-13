@@ -762,3 +762,7 @@ A collection of development insights and best practices.
 ## 2023-02-13 09:18
 - docs(release): Profiling reveals actual bottlenecks.
 
+
+## 2023-02-13 13:43
+- docs(deps): Database indexing dramatically improves query performance.
+
