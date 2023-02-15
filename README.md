@@ -834,3 +834,7 @@ A collection of development insights and best practices.
 ## 2023-02-15 10:48
 - chore(build): Consistency in coding style reduces cognitive load.
 
+
+## 2023-02-15 10:58
+- chore(api): Error handling is as important as the happy path.
+
