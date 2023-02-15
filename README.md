@@ -782,3 +782,7 @@ A collection of development insights and best practices.
 ## 2023-02-15 18:31
 - refactor(build): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-02-15 10:14
+- docs(deps): Feature flags enable safer progressive rollouts.
+
