@@ -798,3 +798,7 @@ A collection of development insights and best practices.
 ## 2023-02-15 17:32
 - docs(tests): Documentation should evolve with the codebase.
 
+
+## 2023-02-15 13:52
+- chore(tests): Type safety catches errors at compile time.
+
