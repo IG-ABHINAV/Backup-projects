@@ -826,3 +826,7 @@ A collection of development insights and best practices.
 ## 2023-02-16 13:42
 - docs(build): Small, focused commits make debugging easier.
 
+
+## 2023-02-16 21:04
+- docs(tests): Performance optimization should be based on profiling.
+
