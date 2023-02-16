@@ -838,3 +838,7 @@ A collection of development insights and best practices.
 ## 2023-02-16 18:55
 - test(release): Error handling is as important as the happy path.
 
+
+## 2023-02-16 15:20
+- test(auth): Security should be considered from the start.
+
