@@ -106,3 +106,4 @@
 - [2023-02-15 18:00:22Z] refactor(ui): Simple solutions are often the best solutions.
 - [2023-02-16 11:21:18Z] refactor(auth): Understanding the problem deeply leads to better solutions.
 - [2023-02-17 17:36:09Z] refactor(release): KISS: Keep It Simple, Stupid.
+- [2023-02-17 10:13:28Z] refactor(build): Configuration should be separate from code.
