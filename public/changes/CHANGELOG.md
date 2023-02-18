@@ -107,3 +107,4 @@
 - [2023-02-16 11:21:18Z] refactor(auth): Understanding the problem deeply leads to better solutions.
 - [2023-02-17 17:36:09Z] refactor(release): KISS: Keep It Simple, Stupid.
 - [2023-02-17 10:13:28Z] refactor(build): Configuration should be separate from code.
+- [2023-02-18 18:18:17Z] refactor(build): Edge cases reveal design weaknesses.
