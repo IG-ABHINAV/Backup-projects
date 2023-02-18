@@ -930,3 +930,7 @@ A collection of development insights and best practices.
 ## 2023-02-18 17:24
 - docs(config): Monitoring provides visibility into system health.
 
+
+## 2023-02-18 21:44
+- docs(tests): Scalability should be planned, not retrofitted.
+
