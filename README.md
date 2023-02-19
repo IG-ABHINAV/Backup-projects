@@ -982,3 +982,7 @@ A collection of development insights and best practices.
 ## 2023-02-19 19:41
 - chore(api): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-02-19 19:51
+- docs(auth): Feature flags enable safer progressive rollouts.
+
