@@ -958,3 +958,7 @@ A collection of development insights and best practices.
 ## 2023-02-18 16:17
 - docs(build): Code coverage metrics guide testing efforts.
 
+
+## 2023-02-19 14:25
+- chore(ui): Profiling reveals actual bottlenecks.
+
