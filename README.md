@@ -962,3 +962,7 @@ A collection of development insights and best practices.
 ## 2023-02-19 14:25
 - chore(ui): Profiling reveals actual bottlenecks.
 
+
+## 2023-02-19 18:49
+- refactor(deps): Database indexing dramatically improves query performance.
+
