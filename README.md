@@ -946,3 +946,7 @@ A collection of development insights and best practices.
 ## 2023-02-19 09:36
 - test(release): User feedback drives meaningful improvements.
 
+
+## 2023-02-20 17:16
+- docs(build): Dependencies should be carefully evaluated.
+
