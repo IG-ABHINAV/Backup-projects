@@ -962,3 +962,7 @@ A collection of development insights and best practices.
 ## 2023-02-20 15:30
 - docs(db): Profiling reveals actual bottlenecks.
 
+
+## 2023-02-20 18:17
+- refactor(ui): Database indexing dramatically improves query performance.
+
