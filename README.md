@@ -1110,3 +1110,7 @@ A collection of development insights and best practices.
 ## 2023-02-23 17:42
 - test(build): Separation of concerns improves maintainability.
 
+
+## 2023-02-23 13:33
+- chore(api): Immutability reduces bugs in concurrent code.
+
