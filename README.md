@@ -1118,3 +1118,7 @@ A collection of development insights and best practices.
 ## 2023-02-23 19:54
 - refactor(build): Logging helps diagnose production issues.
 
+
+## 2023-02-23 09:19
+- refactor(auth): Configuration should be separate from code.
+
