@@ -1122,3 +1122,7 @@ A collection of development insights and best practices.
 ## 2023-02-23 09:19
 - refactor(auth): Configuration should be separate from code.
 
+
+## 2023-02-24 13:39
+- docs(auth): Backups prevent catastrophic data loss.
+
