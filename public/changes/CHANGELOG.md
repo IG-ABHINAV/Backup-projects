@@ -39,3 +39,4 @@
 - [2023-02-24 13:29:46Z] refactor(build): Separation of concerns improves maintainability.
 - [2023-02-25 09:20:37Z] refactor(deps): Configuration should be separate from code.
 - [2023-02-25 12:05:21Z] refactor(db): User feedback drives meaningful improvements.
+- [2023-02-26 19:18:17Z] refactor(docs): Feature flags enable safer progressive rollouts.
