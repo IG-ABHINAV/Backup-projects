@@ -1234,3 +1234,7 @@ A collection of development insights and best practices.
 ## 2023-02-28 15:50
 - refactor(db): Consistency in coding style reduces cognitive load.
 
+
+## 2023-02-28 12:17
+- docs(auth): Error handling is as important as the happy path.
+
