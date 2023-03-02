@@ -47,3 +47,4 @@
 - [2023-02-28 16:16:00Z] refactor(docs): Simple solutions are often the best solutions.
 - [2023-03-01 09:22:12Z] refactor(ui): Incremental changes reduce risk.
 - [2023-03-02 09:54:47Z] refactor(release): KISS: Keep It Simple, Stupid.
+- [2023-03-02 16:56:56Z] refactor(db): Immutability reduces bugs in concurrent code.
