@@ -49,3 +49,4 @@
 - [2023-03-02 09:54:47Z] refactor(release): KISS: Keep It Simple, Stupid.
 - [2023-03-02 16:56:56Z] refactor(db): Immutability reduces bugs in concurrent code.
 - [2023-03-02 13:41:39Z] refactor(build): Logging helps diagnose production issues.
+- [2023-03-02 19:10:18Z] refactor(docs): Configuration should be separate from code.
