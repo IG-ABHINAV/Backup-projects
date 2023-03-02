@@ -1330,3 +1330,7 @@ A collection of development insights and best practices.
 ## 2023-03-02 16:07
 - docs(build): Monitoring provides visibility into system health.
 
+
+## 2023-03-02 11:57
+- docs(api): Scalability should be planned, not retrofitted.
+
