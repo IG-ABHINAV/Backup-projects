@@ -127,3 +127,4 @@
 - [2023-03-03 11:58:19Z] refactor(release): Documentation should evolve with the codebase.
 - [2023-03-04 09:27:05Z] refactor(tests): Refactoring improves code maintainability and readability.
 - [2023-03-05 13:46:34Z] refactor(release): Consistency in coding style reduces cognitive load.
+- [2023-03-06 10:53:27Z] refactor(docs): YAGNI: You Aren't Gonna Need It.
