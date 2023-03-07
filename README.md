@@ -1514,3 +1514,7 @@ A collection of development insights and best practices.
 ## 2023-03-07 18:54
 - refactor(tests): Immutability reduces bugs in concurrent code.
 
+
+## 2023-03-07 21:14
+- docs(auth): Logging helps diagnose production issues.
+
