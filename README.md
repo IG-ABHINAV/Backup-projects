@@ -1586,3 +1586,7 @@ A collection of development insights and best practices.
 ## 2023-03-09 13:31
 - refactor(build): Feature flags enable safer progressive rollouts.
 
+
+## 2023-03-09 13:51
+- chore(db): Load testing reveals system breaking points.
+
