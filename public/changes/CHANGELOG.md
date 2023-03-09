@@ -131,3 +131,4 @@
 - [2023-03-07 18:54:15Z] refactor(tests): Immutability reduces bugs in concurrent code.
 - [2023-03-07 13:21:29Z] refactor(docs): Backups prevent catastrophic data loss.
 - [2023-03-08 10:47:39Z] refactor(release): Dependencies should be carefully evaluated.
+- [2023-03-09 13:31:43Z] refactor(build): Feature flags enable safer progressive rollouts.
