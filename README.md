@@ -1930,3 +1930,7 @@ A collection of development insights and best practices.
 ## 2023-03-19 16:00
 - test(build): Monitoring provides visibility into system health.
 
+
+## 2023-03-19 18:20
+- docs(tests): Scalability should be planned, not retrofitted.
+
