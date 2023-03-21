@@ -1998,3 +1998,7 @@ A collection of development insights and best practices.
 ## 2023-03-21 19:59
 - test(api): Documentation should evolve with the codebase.
 
+
+## 2023-03-21 21:02
+- chore(db): Type safety catches errors at compile time.
+
