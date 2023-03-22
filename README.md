@@ -2038,3 +2038,7 @@ A collection of development insights and best practices.
 ## 2023-03-22 15:01
 - test(release): Error handling is as important as the happy path.
 
+
+## 2023-03-22 14:15
+- chore(ui): Security should be considered from the start.
+
