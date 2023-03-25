@@ -2122,3 +2122,7 @@ A collection of development insights and best practices.
 ## 2023-03-25 09:41
 - docs(config): Configuration should be separate from code.
 
+
+## 2023-03-25 11:24
+- chore(auth): Backups prevent catastrophic data loss.
+
