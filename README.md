@@ -2242,3 +2242,7 @@ A collection of development insights and best practices.
 ## 2023-03-28 19:19
 - docs(tests): Security should be considered from the start.
 
+
+## 2023-03-28 21:50
+- chore(release): Automated testing saves time in the long run.
+
