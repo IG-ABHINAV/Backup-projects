@@ -176,3 +176,4 @@
 - [2023-03-29 18:50:55Z] feat(build): YAGNI: You Aren't Gonna Need It.
 - [2023-03-29 09:57:35Z] refactor(release): Separation of concerns improves maintainability.
 - [2023-03-29 21:15:56Z] fix(config): Immutability reduces bugs in concurrent code.
+- [2023-03-29 14:02:57Z] fix(tests): Logging helps diagnose production issues.
