@@ -2298,3 +2298,7 @@ A collection of development insights and best practices.
 ## 2023-03-29 17:45
 - refactor(release): DRY principle: Don't Repeat Yourself.
 
+
+## 2023-03-29 18:50
+- feat(build): YAGNI: You Aren't Gonna Need It.
+
