@@ -2358,3 +2358,7 @@ A collection of development insights and best practices.
 ## 2023-03-31 10:29
 - chore(db): Code coverage metrics guide testing efforts.
 
+
+## 2023-03-31 18:23
+- chore(tests): Profiling reveals actual bottlenecks.
+
