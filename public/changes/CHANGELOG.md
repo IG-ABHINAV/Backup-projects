@@ -178,3 +178,4 @@
 - [2023-03-29 21:15:56Z] fix(config): Immutability reduces bugs in concurrent code.
 - [2023-03-29 14:02:57Z] fix(tests): Logging helps diagnose production issues.
 - [2023-03-29 15:15:00Z] perf(release): Configuration should be separate from code.
+- [2023-03-31 18:14:37Z] refactor(build): Meaningful error messages improve debugging efficiency.
