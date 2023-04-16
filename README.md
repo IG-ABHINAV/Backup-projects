@@ -2918,3 +2918,7 @@ A collection of development insights and best practices.
 ## 2023-04-16 19:32
 - test(release): Logging helps diagnose production issues.
 
+
+## 2023-04-16 17:49
+- test(auth): Configuration should be separate from code.
+
