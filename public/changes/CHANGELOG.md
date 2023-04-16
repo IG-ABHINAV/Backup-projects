@@ -200,3 +200,4 @@
 - [2023-04-13 17:08:32Z] refactor(api): Clean code is easier to understand and modify.
 - [2023-04-14 18:58:11Z] refactor(tests): Consistency in coding style reduces cognitive load.
 - [2023-04-14 16:02:07Z] refactor(ui): Simple solutions are often the best solutions.
+- [2023-04-16 14:47:59Z] refactor(ui): YAGNI: You Aren't Gonna Need It.
