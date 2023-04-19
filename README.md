@@ -2994,3 +2994,7 @@ A collection of development insights and best practices.
 ## 2023-04-18 09:21
 - chore(release): Continuous integration catches integration issues early.
 
+
+## 2023-04-19 10:15
+- docs(api): Documentation should evolve with the codebase.
+
