@@ -3038,3 +3038,7 @@ A collection of development insights and best practices.
 ## 2023-04-20 17:51
 - feat(auth): Error handling is as important as the happy path.
 
+
+## 2023-04-20 18:24
+- feat(tests): Security should be considered from the start.
+
