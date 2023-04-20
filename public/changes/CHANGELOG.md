@@ -206,3 +206,4 @@
 - [2023-04-20 18:24:36Z] feat(tests): Security should be considered from the start.
 - [2023-04-20 21:16:14Z] refactor(api): Automated testing saves time in the long run.
 - [2023-04-20 14:41:49Z] refactor(build): Simple solutions are often the best solutions.
+- [2023-04-20 16:18:11Z] perf(docs): Technical debt should be addressed incrementally.
