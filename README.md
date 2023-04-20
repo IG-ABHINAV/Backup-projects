@@ -3098,3 +3098,7 @@ A collection of development insights and best practices.
 ## 2023-04-20 21:39
 - feat(config): DRY principle: Don't Repeat Yourself.
 
+
+## 2023-04-20 15:18
+- feat(auth): YAGNI: You Aren't Gonna Need It.
+
