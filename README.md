@@ -3118,3 +3118,7 @@ A collection of development insights and best practices.
 ## 2023-04-21 20:39
 - docs(config): Logging helps diagnose production issues.
 
+
+## 2023-04-21 18:49
+- docs(auth): Configuration should be separate from code.
+
