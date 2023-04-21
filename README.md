@@ -3122,3 +3122,7 @@ A collection of development insights and best practices.
 ## 2023-04-21 18:49
 - docs(auth): Configuration should be separate from code.
 
+
+## 2023-04-21 13:14
+- docs(build): Backups prevent catastrophic data loss.
+
