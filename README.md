@@ -3382,3 +3382,7 @@ A collection of development insights and best practices.
 ## 2023-04-29 16:45
 - refactor(config): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-04-29 12:25
+- docs(auth): Feature flags enable safer progressive rollouts.
+
