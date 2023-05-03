@@ -3518,3 +3518,7 @@ A collection of development insights and best practices.
 ## 2023-05-03 17:37
 - chore(tests): Logging helps diagnose production issues.
 
+
+## 2023-05-03 20:11
+- docs(build): Configuration should be separate from code.
+
