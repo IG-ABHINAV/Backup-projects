@@ -3582,3 +3582,7 @@ A collection of development insights and best practices.
 ## 2023-05-05 21:10
 - refactor(build): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-05-05 20:52
+- chore(build): Feature flags enable safer progressive rollouts.
+
