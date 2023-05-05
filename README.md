@@ -3598,3 +3598,7 @@ A collection of development insights and best practices.
 ## 2023-05-05 10:50
 - refactor(auth): Documentation should evolve with the codebase.
 
+
+## 2023-05-05 13:29
+- docs(release): Type safety catches errors at compile time.
+
