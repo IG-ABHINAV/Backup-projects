@@ -3722,3 +3722,7 @@ A collection of development insights and best practices.
 ## 2023-05-09 14:10
 - docs(ui): Configuration should be separate from code.
 
+
+## 2023-05-09 12:07
+- refactor(auth): Backups prevent catastrophic data loss.
+
