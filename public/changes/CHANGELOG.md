@@ -252,3 +252,4 @@
 - [2023-05-13 09:37:09Z] fix(tests): YAGNI: You Aren't Gonna Need It.
 - [2023-05-13 09:16:25Z] feat(docs): Immutability reduces bugs in concurrent code.
 - [2023-05-13 15:56:48Z] feat(ui): Logging helps diagnose production issues.
+- [2023-05-13 16:18:16Z] feat(config): Configuration should be separate from code.
