@@ -250,3 +250,4 @@
 - [2023-05-13 17:20:20Z] fix(ui): Design patterns solve common problems elegantly.
 - [2023-05-13 16:24:16Z] fix(deps): DRY principle: Don't Repeat Yourself.
 - [2023-05-13 09:37:09Z] fix(tests): YAGNI: You Aren't Gonna Need It.
+- [2023-05-13 09:16:25Z] feat(docs): Immutability reduces bugs in concurrent code.
