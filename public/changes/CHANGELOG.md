@@ -255,3 +255,4 @@
 - [2023-05-13 16:18:16Z] feat(config): Configuration should be separate from code.
 - [2023-05-13 15:07:49Z] fix(deps): Backups prevent catastrophic data loss.
 - [2023-05-13 17:01:19Z] feat(deps): Monitoring provides visibility into system health.
+- [2023-05-14 09:41:32Z] refactor(db): Edge cases reveal design weaknesses.
