@@ -4158,3 +4158,7 @@ A collection of development insights and best practices.
 ## 2023-05-20 20:30
 - test(tests): Code coverage metrics guide testing efforts.
 
+
+## 2023-05-20 15:23
+- test(ui): Profiling reveals actual bottlenecks.
+
