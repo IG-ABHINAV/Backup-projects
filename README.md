@@ -4246,3 +4246,7 @@ A collection of development insights and best practices.
 ## 2023-05-22 16:06
 - docs(auth): Automated testing saves time in the long run.
 
+
+## 2023-05-22 11:55
+- fix(release): Simple solutions are often the best solutions.
+

@@ -272,3 +272,4 @@
 - [2023-05-22 10:23:57Z] perf(build): Consistency in coding style reduces cognitive load.
 - [2023-05-22 21:33:46Z] perf(config): Error handling is as important as the happy path.
 - [2023-05-22 17:24:53Z] feat(config): Security should be considered from the start.
+- [2023-05-22 11:55:28Z] fix(release): Simple solutions are often the best solutions.
