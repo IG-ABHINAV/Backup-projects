@@ -4442,3 +4442,7 @@ A collection of development insights and best practices.
 ## 2023-05-27 18:32
 - refactor(release): Security should be considered from the start.
 
+
+## 2023-05-27 15:28
+- chore(release): Automated testing saves time in the long run.
+
