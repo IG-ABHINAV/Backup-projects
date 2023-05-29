@@ -4518,3 +4518,7 @@ A collection of development insights and best practices.
 ## 2023-05-29 20:09
 - docs(api): Logging helps diagnose production issues.
 
+
+## 2023-05-29 16:18
+- test(build): Configuration should be separate from code.
+
