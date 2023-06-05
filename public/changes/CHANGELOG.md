@@ -295,3 +295,4 @@
 - [2023-05-31 18:58:09Z] refactor(release): Documentation should evolve with the codebase.
 - [2023-06-01 18:18:41Z] refactor(docs): Small, focused commits make debugging easier.
 - [2023-06-03 19:51:29Z] refactor(config): Code should be optimized for readability first.
+- [2023-06-05 10:52:05Z] refactor(build): Profiling reveals actual bottlenecks.
