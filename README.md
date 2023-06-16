@@ -5130,3 +5130,7 @@ A collection of development insights and best practices.
 ## 2023-06-16 09:37
 - docs(deps): Monitoring provides visibility into system health.
 
+
+## 2023-06-16 10:32
+- docs(db): Scalability should be planned, not retrofitted.
+
