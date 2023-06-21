@@ -5318,3 +5318,7 @@ A collection of development insights and best practices.
 ## 2023-06-21 18:25
 - docs(tests): Logging helps diagnose production issues.
 
+
+## 2023-06-21 19:06
+- refactor(config): Configuration should be separate from code.
+
