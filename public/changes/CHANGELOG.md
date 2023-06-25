@@ -321,3 +321,4 @@
 - [2023-06-21 19:06:35Z] refactor(config): Configuration should be separate from code.
 - [2023-06-22 19:45:49Z] refactor(ui): Dependencies should be carefully evaluated.
 - [2023-06-25 10:04:57Z] refactor(auth): Error handling is as important as the happy path.
+- [2023-06-25 20:20:39Z] refactor(deps): Security should be considered from the start.
