@@ -5518,3 +5518,7 @@ A collection of development insights and best practices.
 ## 2023-06-27 15:57
 - chore(deps): Logging helps diagnose production issues.
 
+
+## 2023-06-28 17:32
+- chore(release): Configuration should be separate from code.
+
