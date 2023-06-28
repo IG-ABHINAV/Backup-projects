@@ -5522,3 +5522,7 @@ A collection of development insights and best practices.
 ## 2023-06-28 17:32
 - chore(release): Configuration should be separate from code.
 
+
+## 2023-06-28 18:47
+- docs(auth): Backups prevent catastrophic data loss.
+
