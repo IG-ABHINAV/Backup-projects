@@ -5650,3 +5650,7 @@ A collection of development insights and best practices.
 ## 2023-07-01 14:36
 - docs(tests): Simple solutions are often the best solutions.
 
+
+## 2023-07-01 17:24
+- test(build): Technical debt should be addressed incrementally.
+
