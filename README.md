@@ -6114,3 +6114,7 @@ A collection of development insights and best practices.
 ## 2023-07-15 09:41
 - docs(docs): Immutability reduces bugs in concurrent code.
 
+
+## 2023-07-15 16:51
+- docs(ui): Logging helps diagnose production issues.
+
