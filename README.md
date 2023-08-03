@@ -6762,3 +6762,7 @@ A collection of development insights and best practices.
 ## 2023-08-02 19:23
 - refactor(release): Profiling reveals actual bottlenecks.
 
+
+## 2023-08-03 17:11
+- chore(build): Database indexing dramatically improves query performance.
+
