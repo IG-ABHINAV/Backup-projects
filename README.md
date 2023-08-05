@@ -6838,3 +6838,7 @@ A collection of development insights and best practices.
 ## 2023-08-05 10:26
 - feat(db): Error handling is as important as the happy path.
 
+
+## 2023-08-05 21:53
+- perf(api): Security should be considered from the start.
+
