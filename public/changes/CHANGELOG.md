@@ -378,3 +378,4 @@
 - [2023-08-05 11:11:58Z] fix(db): YAGNI: You Aren't Gonna Need It.
 - [2023-08-05 16:56:19Z] feat(auth): KISS: Keep It Simple, Stupid.
 - [2023-08-06 17:50:04Z] refactor(api): Configuration should be separate from code.
+- [2023-08-07 11:31:05Z] refactor(tests): Code coverage metrics guide testing efforts.
