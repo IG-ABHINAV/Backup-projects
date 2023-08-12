@@ -384,3 +384,4 @@
 - [2023-08-10 10:50:59Z] refactor(tests): Automated testing saves time in the long run.
 - [2023-08-10 13:55:59Z] refactor(api): Good naming makes code self-documenting.
 - [2023-08-11 17:30:33Z] refactor(release): YAGNI: You Aren't Gonna Need It.
+- [2023-08-12 16:51:35Z] refactor(db): Scalability should be planned, not retrofitted.
