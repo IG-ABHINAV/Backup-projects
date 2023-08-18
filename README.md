@@ -7322,3 +7322,7 @@ A collection of development insights and best practices.
 ## 2023-08-18 20:34
 - docs(ui): Configuration should be separate from code.
 
+
+## 2023-08-18 15:27
+- docs(config): Backups prevent catastrophic data loss.
+
