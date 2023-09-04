@@ -7898,3 +7898,7 @@ A collection of development insights and best practices.
 ## 2023-09-04 14:08
 - chore(ui): DRY principle: Don't Repeat Yourself.
 
+
+## 2023-09-04 17:50
+- docs(build): YAGNI: You Aren't Gonna Need It.
+
