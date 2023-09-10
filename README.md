@@ -8098,3 +8098,7 @@ A collection of development insights and best practices.
 ## 2023-09-10 19:08
 - docs(config): DRY principle: Don't Repeat Yourself.
 
+
+## 2023-09-10 16:11
+- docs(tests): YAGNI: You Aren't Gonna Need It.
+
