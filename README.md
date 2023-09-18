@@ -8362,3 +8362,7 @@ A collection of development insights and best practices.
 ## 2023-09-18 12:09
 - docs(config): Profiling reveals actual bottlenecks.
 
+
+## 2023-09-18 13:54
+- chore(auth): Database indexing dramatically improves query performance.
+
