@@ -8514,3 +8514,7 @@ A collection of development insights and best practices.
 ## 2023-09-22 10:54
 - docs(ui): Immutability reduces bugs in concurrent code.
 
+
+## 2023-09-23 18:01
+- chore(auth): Logging helps diagnose production issues.
+
