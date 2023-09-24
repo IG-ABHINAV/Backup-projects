@@ -8562,3 +8562,7 @@ A collection of development insights and best practices.
 ## 2023-09-24 17:40
 - test(ui): Profiling reveals actual bottlenecks.
 
+
+## 2023-09-24 12:25
+- docs(deps): Database indexing dramatically improves query performance.
+
