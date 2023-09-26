@@ -8638,3 +8638,7 @@ A collection of development insights and best practices.
 ## 2023-09-26 17:33
 - docs(auth): Error handling is as important as the happy path.
 
+
+## 2023-09-26 15:55
+- docs(build): Security should be considered from the start.
+
