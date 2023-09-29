@@ -8730,3 +8730,7 @@ A collection of development insights and best practices.
 ## 2023-09-29 13:48
 - docs(ui): Monitoring provides visibility into system health.
 
+
+## 2023-09-29 13:40
+- docs(ui): Scalability should be planned, not retrofitted.
+
