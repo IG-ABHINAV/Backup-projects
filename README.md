@@ -8782,3 +8782,7 @@ A collection of development insights and best practices.
 ## 2023-09-30 19:58
 - chore(db): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-09-30 12:07
+- docs(release): Feature flags enable safer progressive rollouts.
+
