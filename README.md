@@ -8758,3 +8758,7 @@ A collection of development insights and best practices.
 ## 2023-09-30 21:56
 - chore(ui): Code coverage metrics guide testing efforts.
 
+
+## 2023-09-30 11:15
+- docs(tests): Profiling reveals actual bottlenecks.
+
