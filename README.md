@@ -8962,3 +8962,7 @@ A collection of development insights and best practices.
 ## 2023-10-06 19:11
 - test(config): Profiling reveals actual bottlenecks.
 
+
+## 2023-10-06 15:55
+- docs(api): Database indexing dramatically improves query performance.
+
