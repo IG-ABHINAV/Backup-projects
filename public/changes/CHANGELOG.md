@@ -479,3 +479,4 @@
 - [2023-10-28 21:16:12Z] perf(config): Configuration should be separate from code.
 - [2023-10-28 20:48:11Z] refactor(release): Backups prevent catastrophic data loss.
 - [2023-10-28 15:09:21Z] fix(tests): Monitoring provides visibility into system health.
+- [2023-10-28 11:03:04Z] fix(db): Scalability should be planned, not retrofitted.
