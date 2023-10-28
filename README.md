@@ -9782,3 +9782,7 @@ A collection of development insights and best practices.
 ## 2023-10-28 19:40
 - fix(docs): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-10-28 21:58
+- feat(build): Feature flags enable safer progressive rollouts.
+
