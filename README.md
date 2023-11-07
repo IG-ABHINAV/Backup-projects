@@ -10130,3 +10130,7 @@ A collection of development insights and best practices.
 ## 2023-11-07 09:32
 - docs(db): Monitoring provides visibility into system health.
 
+
+## 2023-11-07 16:00
+- refactor(api): Scalability should be planned, not retrofitted.
+
