@@ -10162,3 +10162,7 @@ A collection of development insights and best practices.
 ## 2023-11-08 18:20
 - docs(db): Profiling reveals actual bottlenecks.
 
+
+## 2023-11-08 15:43
+- docs(docs): Database indexing dramatically improves query performance.
+
