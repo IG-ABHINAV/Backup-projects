@@ -10382,3 +10382,7 @@ A collection of development insights and best practices.
 ## 2023-11-15 20:42
 - chore(ui): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-11-15 11:35
+- docs(ui): Feature flags enable safer progressive rollouts.
+
