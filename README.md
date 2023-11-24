@@ -10714,3 +10714,7 @@ A collection of development insights and best practices.
 ## 2023-11-24 16:04
 - test(deps): Immutability reduces bugs in concurrent code.
 
+
+## 2023-11-24 19:07
+- chore(db): Logging helps diagnose production issues.
+
