@@ -10982,3 +10982,7 @@ A collection of development insights and best practices.
 ## 2023-12-01 14:36
 - feat(deps): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2023-12-01 14:00
+- refactor(api): Feature flags enable safer progressive rollouts.
+
