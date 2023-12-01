@@ -10962,3 +10962,7 @@ A collection of development insights and best practices.
 ## 2023-12-01 21:58
 - perf(auth): Profiling reveals actual bottlenecks.
 
+
+## 2023-12-01 13:44
+- perf(release): Database indexing dramatically improves query performance.
+
