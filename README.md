@@ -11122,3 +11122,7 @@ A collection of development insights and best practices.
 ## 2023-12-05 09:49
 - docs(build): Configuration should be separate from code.
 
+
+## 2023-12-05 20:28
+- docs(release): Backups prevent catastrophic data loss.
+
