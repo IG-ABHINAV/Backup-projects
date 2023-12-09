@@ -11238,3 +11238,7 @@ A collection of development insights and best practices.
 ## 2023-12-08 21:38
 - test(build): Error handling is as important as the happy path.
 
+
+## 2023-12-09 13:41
+- docs(api): Security should be considered from the start.
+
