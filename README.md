@@ -11762,3 +11762,7 @@ A collection of development insights and best practices.
 ## 2023-12-24 11:17
 - test(build): Profiling reveals actual bottlenecks.
 
+
+## 2023-12-24 11:57
+- docs(build): Database indexing dramatically improves query performance.
+
