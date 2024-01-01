@@ -571,3 +571,4 @@
 - [2023-12-29 13:54:28Z] refactor(ui): Logging helps diagnose production issues.
 - [2023-12-30 20:58:37Z] refactor(release): Dependencies should be carefully evaluated.
 - [2024-01-01 09:09:50Z] refactor(config): Small, focused commits make debugging easier.
+- [2024-01-01 16:18:25Z] refactor(tests): Error handling is as important as the happy path.
