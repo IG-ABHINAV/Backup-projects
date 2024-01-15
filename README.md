@@ -12498,3 +12498,7 @@ A collection of development insights and best practices.
 ## 2024-01-15 09:20
 - docs(config): DRY principle: Don't Repeat Yourself.
 
+
+## 2024-01-15 20:42
+- docs(ui): YAGNI: You Aren't Gonna Need It.
+
