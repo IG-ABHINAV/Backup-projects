@@ -12718,3 +12718,7 @@ A collection of development insights and best practices.
 ## 2024-01-21 19:06
 - docs(docs): Logging helps diagnose production issues.
 
+
+## 2024-01-21 19:12
+- refactor(release): Configuration should be separate from code.
+
