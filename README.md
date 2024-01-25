@@ -12834,3 +12834,7 @@ A collection of development insights and best practices.
 ## 2024-01-25 16:04
 - test(ui): Consistency in coding style reduces cognitive load.
 
+
+## 2024-01-25 12:26
+- chore(build): Error handling is as important as the happy path.
+
