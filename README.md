@@ -12962,3 +12962,7 @@ A collection of development insights and best practices.
 ## 2024-01-29 21:46
 - docs(docs): Profiling reveals actual bottlenecks.
 
+
+## 2024-01-29 14:35
+- refactor(docs): Database indexing dramatically improves query performance.
+
