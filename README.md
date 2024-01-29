@@ -12982,3 +12982,7 @@ A collection of development insights and best practices.
 ## 2024-01-29 09:13
 - refactor(api): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2024-01-29 09:38
+- chore(docs): Feature flags enable safer progressive rollouts.
+
