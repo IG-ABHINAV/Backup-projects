@@ -12986,3 +12986,7 @@ A collection of development insights and best practices.
 ## 2024-01-29 09:38
 - chore(docs): Feature flags enable safer progressive rollouts.
 
+
+## 2024-01-30 12:18
+- docs(auth): Load testing reveals system breaking points.
+
