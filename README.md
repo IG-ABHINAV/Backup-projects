@@ -14758,3 +14758,7 @@ A collection of development insights and best practices.
 ## 2024-03-17 19:31
 - test(ui): Code coverage metrics guide testing efforts.
 
+
+## 2024-03-17 14:31
+- docs(build): Profiling reveals actual bottlenecks.
+
