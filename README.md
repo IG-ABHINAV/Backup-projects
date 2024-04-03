@@ -15358,3 +15358,7 @@ A collection of development insights and best practices.
 ## 2024-04-03 15:21
 - chore(config): Code coverage metrics guide testing efforts.
 
+
+## 2024-04-03 11:00
+- docs(build): Profiling reveals actual bottlenecks.
+
