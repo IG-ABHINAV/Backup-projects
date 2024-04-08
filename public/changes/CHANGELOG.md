@@ -751,3 +751,4 @@
 - [2024-04-06 19:20:55Z] refactor(api): Regular refactoring prevents code decay.
 - [2024-04-06 13:07:22Z] refactor(config): Code should be optimized for readability first.
 - [2024-04-07 12:01:54Z] refactor(api): KISS: Keep It Simple, Stupid.
+- [2024-04-08 13:35:27Z] refactor(api): Scalability should be planned, not retrofitted.
