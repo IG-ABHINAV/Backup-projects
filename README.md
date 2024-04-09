@@ -15582,3 +15582,7 @@ A collection of development insights and best practices.
 ## 2024-04-09 20:58
 - refactor(api): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2024-04-09 10:18
+- refactor(auth): Feature flags enable safer progressive rollouts.
+
