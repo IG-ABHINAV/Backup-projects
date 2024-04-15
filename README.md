@@ -15762,3 +15762,7 @@ A collection of development insights and best practices.
 ## 2024-04-15 15:09
 - chore(auth): Profiling reveals actual bottlenecks.
 
+
+## 2024-04-15 18:19
+- refactor(build): Database indexing dramatically improves query performance.
+
