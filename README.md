@@ -16338,3 +16338,7 @@ A collection of development insights and best practices.
 ## 2024-05-02 19:16
 - docs(tests): API design affects long-term maintainability.
 
+
+## 2024-05-02 17:50
+- docs(db): Edge cases reveal design weaknesses.
+
