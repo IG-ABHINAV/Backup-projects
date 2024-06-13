@@ -17762,3 +17762,7 @@ A collection of development insights and best practices.
 ## 2024-06-13 15:39
 - docs(ui): Profiling reveals actual bottlenecks.
 
+
+## 2024-06-13 09:56
+- test(docs): Database indexing dramatically improves query performance.
+
