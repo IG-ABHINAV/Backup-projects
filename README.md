@@ -18962,3 +18962,7 @@ A collection of development insights and best practices.
 ## 2024-07-15 18:43
 - chore(release): Profiling reveals actual bottlenecks.
 
+
+## 2024-07-15 16:54
+- docs(auth): Database indexing dramatically improves query performance.
+
