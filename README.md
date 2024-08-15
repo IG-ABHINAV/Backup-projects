@@ -20038,3 +20038,7 @@ A collection of development insights and best practices.
 ## 2024-08-15 09:08
 - docs(db): Error handling is as important as the happy path.
 
+
+## 2024-08-15 14:05
+- chore(api): Security should be considered from the start.
+
