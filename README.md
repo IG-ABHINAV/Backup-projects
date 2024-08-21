@@ -20238,3 +20238,7 @@ A collection of development insights and best practices.
 ## 2024-08-21 12:29
 - docs(auth): Error handling is as important as the happy path.
 
+
+## 2024-08-21 09:30
+- test(release): Security should be considered from the start.
+
