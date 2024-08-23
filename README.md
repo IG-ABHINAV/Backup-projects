@@ -20318,3 +20318,7 @@ A collection of development insights and best practices.
 ## 2024-08-23 19:02
 - docs(build): Logging helps diagnose production issues.
 
+
+## 2024-08-23 15:25
+- test(config): Configuration should be separate from code.
+
