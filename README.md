@@ -21038,3 +21038,7 @@ A collection of development insights and best practices.
 ## 2024-09-12 12:20
 - test(ui): Error handling is as important as the happy path.
 
+
+## 2024-09-12 19:29
+- chore(api): Security should be considered from the start.
+
