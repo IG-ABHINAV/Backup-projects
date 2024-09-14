@@ -21114,3 +21114,7 @@ A collection of development insights and best practices.
 ## 2024-09-14 10:08
 - chore(tests): Immutability reduces bugs in concurrent code.
 
+
+## 2024-09-14 17:46
+- test(ui): Logging helps diagnose production issues.
+
