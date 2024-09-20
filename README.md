@@ -21314,3 +21314,7 @@ A collection of development insights and best practices.
 ## 2024-09-20 19:00
 - test(api): Immutability reduces bugs in concurrent code.
 
+
+## 2024-09-20 11:24
+- test(db): Logging helps diagnose production issues.
+
