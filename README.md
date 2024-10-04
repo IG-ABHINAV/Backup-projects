@@ -21838,3 +21838,7 @@ A collection of development insights and best practices.
 ## 2024-10-04 18:37
 - docs(build): Error handling is as important as the happy path.
 
+
+## 2024-10-04 13:45
+- refactor(auth): Security should be considered from the start.
+
