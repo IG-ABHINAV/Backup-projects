@@ -21986,3 +21986,7 @@ A collection of development insights and best practices.
 ## 2024-10-08 19:18
 - refactor(api): Feature flags enable safer progressive rollouts.
 
+
+## 2024-10-08 09:36
+- chore(db): Load testing reveals system breaking points.
+
