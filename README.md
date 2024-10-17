@@ -22318,3 +22318,7 @@ A collection of development insights and best practices.
 ## 2024-10-16 18:48
 - feat(tests): Logging helps diagnose production issues.
 
+
+## 2024-10-17 10:37
+- chore(build): Configuration should be separate from code.
+
