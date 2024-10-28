@@ -22722,3 +22722,7 @@ A collection of development insights and best practices.
 ## 2024-10-28 10:27
 - docs(auth): Configuration should be separate from code.
 
+
+## 2024-10-28 10:00
+- docs(auth): Backups prevent catastrophic data loss.
+
