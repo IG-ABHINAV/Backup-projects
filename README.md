@@ -22718,3 +22718,7 @@ A collection of development insights and best practices.
 ## 2024-10-28 10:12
 - chore(db): Logging helps diagnose production issues.
 
+
+## 2024-10-28 10:27
+- docs(auth): Configuration should be separate from code.
+
