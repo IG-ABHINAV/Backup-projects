@@ -23182,3 +23182,7 @@ A collection of development insights and best practices.
 ## 2024-11-11 14:51
 - docs(db): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2024-11-11 14:31
+- docs(ui): Feature flags enable safer progressive rollouts.
+
