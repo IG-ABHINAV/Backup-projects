@@ -23362,3 +23362,7 @@ A collection of development insights and best practices.
 ## 2024-11-15 21:48
 - feat(config): Profiling reveals actual bottlenecks.
 
+
+## 2024-11-15 09:46
+- perf(db): Database indexing dramatically improves query performance.
+
