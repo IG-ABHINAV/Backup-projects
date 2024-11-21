@@ -23638,3 +23638,7 @@ A collection of development insights and best practices.
 ## 2024-11-21 18:24
 - docs(auth): Error handling is as important as the happy path.
 
+
+## 2024-11-21 14:12
+- docs(db): Security should be considered from the start.
+
