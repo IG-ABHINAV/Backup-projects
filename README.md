@@ -23782,3 +23782,7 @@ A collection of development insights and best practices.
 ## 2024-11-24 09:58
 - feat(db): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2024-11-24 12:29
+- fix(release): Feature flags enable safer progressive rollouts.
+
