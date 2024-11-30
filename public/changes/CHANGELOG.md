@@ -1200,3 +1200,4 @@
 - [2024-11-28 13:02:41Z] refactor(build): Scalability should be planned, not retrofitted.
 - [2024-11-28 18:09:38Z] refactor(release): Edge cases reveal design weaknesses.
 - [2024-11-28 21:32:33Z] refactor(api): Dependencies should be carefully evaluated.
+- [2024-11-30 11:05:49Z] refactor(docs): Feature flags enable safer progressive rollouts.
