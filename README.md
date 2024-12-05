@@ -24158,3 +24158,7 @@ A collection of development insights and best practices.
 ## 2024-12-05 17:03
 - chore(ui): Code coverage metrics guide testing efforts.
 
+
+## 2024-12-05 21:36
+- chore(auth): Profiling reveals actual bottlenecks.
+
