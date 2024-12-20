@@ -24730,3 +24730,7 @@ A collection of development insights and best practices.
 ## 2024-12-20 19:19
 - chore(auth): Monitoring provides visibility into system health.
 
+
+## 2024-12-20 19:58
+- docs(ui): Scalability should be planned, not retrofitted.
+
