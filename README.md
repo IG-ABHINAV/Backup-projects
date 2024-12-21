@@ -24758,3 +24758,7 @@ A collection of development insights and best practices.
 ## 2024-12-21 11:48
 - refactor(api): Code coverage metrics guide testing efforts.
 
+
+## 2024-12-21 20:14
+- test(build): Profiling reveals actual bottlenecks.
+
