@@ -24958,3 +24958,7 @@ A collection of development insights and best practices.
 ## 2024-12-26 18:39
 - chore(api): Code coverage metrics guide testing efforts.
 
+
+## 2024-12-26 15:40
+- docs(config): Profiling reveals actual bottlenecks.
+
