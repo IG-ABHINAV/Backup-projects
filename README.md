@@ -25038,3 +25038,7 @@ A collection of development insights and best practices.
 ## 2024-12-29 16:20
 - chore(db): Error handling is as important as the happy path.
 
+
+## 2024-12-29 18:01
+- chore(tests): Security should be considered from the start.
+
