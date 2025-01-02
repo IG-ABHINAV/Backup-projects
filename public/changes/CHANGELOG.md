@@ -1258,3 +1258,4 @@
 - [2024-12-31 16:04:32Z] refactor(build): Immutability reduces bugs in concurrent code.
 - [2024-12-31 14:53:17Z] refactor(build): Logging helps diagnose production issues.
 - [2025-01-01 14:12:58Z] refactor(ui): Scalability should be planned, not retrofitted.
+- [2025-01-02 15:39:37Z] refactor(build): Profiling reveals actual bottlenecks.
