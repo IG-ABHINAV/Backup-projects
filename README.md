@@ -25162,3 +25162,7 @@ A collection of development insights and best practices.
 ## 2025-01-02 15:39
 - refactor(build): Profiling reveals actual bottlenecks.
 
+
+## 2025-01-02 16:46
+- test(build): Database indexing dramatically improves query performance.
+
