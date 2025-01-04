@@ -25238,3 +25238,7 @@ A collection of development insights and best practices.
 ## 2025-01-04 19:03
 - test(db): Error handling is as important as the happy path.
 
+
+## 2025-01-04 12:25
+- test(build): Security should be considered from the start.
+
