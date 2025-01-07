@@ -25334,3 +25334,7 @@ A collection of development insights and best practices.
 ## 2025-01-07 17:31
 - chore(db): Scalability should be planned, not retrofitted.
 
+
+## 2025-01-07 18:31
+- docs(auth): API design affects long-term maintainability.
+
