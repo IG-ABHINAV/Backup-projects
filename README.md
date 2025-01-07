@@ -25330,3 +25330,7 @@ A collection of development insights and best practices.
 ## 2025-01-07 20:49
 - chore(db): Monitoring provides visibility into system health.
 
+
+## 2025-01-07 17:31
+- chore(db): Scalability should be planned, not retrofitted.
+
