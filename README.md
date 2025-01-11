@@ -25518,3 +25518,7 @@ A collection of development insights and best practices.
 ## 2025-01-11 10:21
 - docs(tests): Logging helps diagnose production issues.
 
+
+## 2025-01-11 20:58
+- chore(build): Configuration should be separate from code.
+
