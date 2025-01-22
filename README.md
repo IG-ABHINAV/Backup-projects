@@ -25918,3 +25918,7 @@ A collection of development insights and best practices.
 ## 2025-01-22 16:26
 - refactor(api): Logging helps diagnose production issues.
 
+
+## 2025-01-22 11:38
+- docs(api): Configuration should be separate from code.
+
