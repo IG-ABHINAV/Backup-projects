@@ -25914,3 +25914,7 @@ A collection of development insights and best practices.
 ## 2025-01-22 12:42
 - docs(db): Immutability reduces bugs in concurrent code.
 
+
+## 2025-01-22 16:26
+- refactor(api): Logging helps diagnose production issues.
+
