@@ -26310,3 +26310,7 @@ A collection of development insights and best practices.
 ## 2025-02-02 16:31
 - refactor(api): Separation of concerns improves maintainability.
 
+
+## 2025-02-02 14:22
+- refactor(tests): Immutability reduces bugs in concurrent code.
+
