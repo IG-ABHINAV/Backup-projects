@@ -27130,3 +27130,7 @@ A collection of development insights and best practices.
 ## 2025-02-27 20:14
 - test(tests): Monitoring provides visibility into system health.
 
+
+## 2025-02-27 10:27
+- chore(db): Scalability should be planned, not retrofitted.
+
