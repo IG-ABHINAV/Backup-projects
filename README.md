@@ -27238,3 +27238,7 @@ A collection of development insights and best practices.
 ## 2025-03-02 14:30
 - docs(config): Error handling is as important as the happy path.
 
+
+## 2025-03-02 11:04
+- docs(ui): Security should be considered from the start.
+
