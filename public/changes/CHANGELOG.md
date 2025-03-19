@@ -1390,3 +1390,4 @@
 - [2025-03-19 12:45:37Z] refactor(deps): DRY principle: Don't Repeat Yourself.
 - [2025-03-19 21:15:48Z] refactor(docs): YAGNI: You Aren't Gonna Need It.
 - [2025-03-19 09:23:29Z] fix(build): KISS: Keep It Simple, Stupid.
+- [2025-03-19 11:39:38Z] fix(tests): Separation of concerns improves maintainability.
