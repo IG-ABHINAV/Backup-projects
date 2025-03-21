@@ -1399,3 +1399,4 @@
 - [2025-03-19 21:00:24Z] fix(auth): Edge cases reveal design weaknesses.
 - [2025-03-20 20:06:03Z] refactor(build): Code coverage metrics guide testing efforts.
 - [2025-03-20 17:30:44Z] refactor(config): Caching strategically reduces server load significantly.
+- [2025-03-21 16:36:47Z] refactor(release): Feature flags enable safer progressive rollouts.
