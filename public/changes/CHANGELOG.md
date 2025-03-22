@@ -1403,3 +1403,4 @@
 - [2025-03-21 18:24:17Z] refactor(build): Documentation should evolve with the codebase.
 - [2025-03-21 16:03:44Z] refactor(release): Type safety catches errors at compile time.
 - [2025-03-21 15:12:36Z] refactor(tests): Writing tests first helps clarify requirements.
+- [2025-03-22 14:35:39Z] refactor(build): Small, focused commits make debugging easier.
