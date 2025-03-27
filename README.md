@@ -28182,3 +28182,7 @@ A collection of development insights and best practices.
 ## 2025-03-26 20:06
 - docs(build): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2025-03-27 17:53
+- docs(api): Feature flags enable safer progressive rollouts.
+
