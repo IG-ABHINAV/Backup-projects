@@ -28318,3 +28318,7 @@ A collection of development insights and best practices.
 ## 2025-03-30 16:28
 - refactor(docs): Logging helps diagnose production issues.
 
+
+## 2025-03-30 09:05
+- docs(release): Configuration should be separate from code.
+
