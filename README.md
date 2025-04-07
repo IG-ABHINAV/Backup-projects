@@ -28558,3 +28558,7 @@ A collection of development insights and best practices.
 ## 2025-04-06 12:00
 - refactor(build): Code coverage metrics guide testing efforts.
 
+
+## 2025-04-07 21:57
+- chore(build): Profiling reveals actual bottlenecks.
+
