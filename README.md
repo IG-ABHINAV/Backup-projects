@@ -28934,3 +28934,7 @@ A collection of development insights and best practices.
 ## 2025-04-17 10:07
 - docs(tests): Scalability should be planned, not retrofitted.
 
+
+## 2025-04-17 09:12
+- test(tests): API design affects long-term maintainability.
+
