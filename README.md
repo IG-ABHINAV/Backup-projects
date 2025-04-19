@@ -28998,3 +28998,7 @@ A collection of development insights and best practices.
 ## 2025-04-19 10:43
 - docs(config): Documentation should evolve with the codebase.
 
+
+## 2025-04-19 10:11
+- docs(db): Type safety catches errors at compile time.
+
