@@ -29010,3 +29010,7 @@ A collection of development insights and best practices.
 ## 2025-04-19 17:33
 - docs(deps): Writing tests first helps clarify requirements.
 
+
+## 2025-04-20 10:56
+- docs(db): Code reviews catch bugs early and share knowledge.
+
