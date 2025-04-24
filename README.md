@@ -29158,3 +29158,7 @@ A collection of development insights and best practices.
 ## 2025-04-24 18:33
 - docs(ui): Code coverage metrics guide testing efforts.
 
+
+## 2025-04-24 21:45
+- docs(docs): Profiling reveals actual bottlenecks.
+
