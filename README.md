@@ -29186,3 +29186,7 @@ A collection of development insights and best practices.
 ## 2025-04-25 15:48
 - docs(db): Feature flags enable safer progressive rollouts.
 
+
+## 2025-04-25 17:14
+- docs(build): Load testing reveals system breaking points.
+
