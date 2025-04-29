@@ -29322,3 +29322,7 @@ A collection of development insights and best practices.
 ## 2025-04-29 19:21
 - docs(config): Configuration should be separate from code.
 
+
+## 2025-04-29 18:31
+- refactor(docs): Backups prevent catastrophic data loss.
+
