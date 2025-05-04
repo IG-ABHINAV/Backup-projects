@@ -29510,3 +29510,7 @@ A collection of development insights and best practices.
 ## 2025-05-04 16:59
 - chore(db): Separation of concerns improves maintainability.
 
+
+## 2025-05-04 10:43
+- test(api): Immutability reduces bugs in concurrent code.
+
