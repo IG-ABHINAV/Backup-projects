@@ -29566,3 +29566,7 @@ A collection of development insights and best practices.
 ## 2025-05-06 15:16
 - chore(ui): Database indexing dramatically improves query performance.
 
+
+## 2025-05-06 16:46
+- chore(docs): Caching strategically reduces server load significantly.
+
