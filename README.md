@@ -30162,3 +30162,7 @@ A collection of development insights and best practices.
 ## 2025-05-23 11:58
 - docs(api): Profiling reveals actual bottlenecks.
 
+
+## 2025-05-23 17:18
+- refactor(deps): Database indexing dramatically improves query performance.
+
