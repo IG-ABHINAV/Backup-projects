@@ -30210,3 +30210,7 @@ A collection of development insights and best practices.
 ## 2025-05-25 18:02
 - test(deps): Writing tests first helps clarify requirements.
 
+
+## 2025-05-25 12:10
+- refactor(tests): Code reviews catch bugs early and share knowledge.
+
