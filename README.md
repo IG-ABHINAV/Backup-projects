@@ -30226,3 +30226,7 @@ A collection of development insights and best practices.
 ## 2025-05-25 18:15
 - docs(tests): Small, focused commits make debugging easier.
 
+
+## 2025-05-25 14:28
+- docs(db): Performance optimization should be based on profiling.
+
