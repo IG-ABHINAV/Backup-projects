@@ -30410,3 +30410,7 @@ A collection of development insights and best practices.
 ## 2025-05-31 20:33
 - test(docs): Writing tests first helps clarify requirements.
 
+
+## 2025-05-31 12:35
+- docs(auth): Code reviews catch bugs early and share knowledge.
+
