@@ -30518,3 +30518,7 @@ A collection of development insights and best practices.
 ## 2025-06-02 18:24
 - refactor(deps): Logging helps diagnose production issues.
 
+
+## 2025-06-02 12:00
+- chore(docs): Configuration should be separate from code.
+
