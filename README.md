@@ -30510,3 +30510,7 @@ A collection of development insights and best practices.
 ## 2025-06-01 14:57
 - perf(build): Separation of concerns improves maintainability.
 
+
+## 2025-06-02 11:02
+- docs(ui): Immutability reduces bugs in concurrent code.
+
