@@ -30758,3 +30758,7 @@ A collection of development insights and best practices.
 ## 2025-06-08 10:29
 - feat(docs): Code coverage metrics guide testing efforts.
 
+
+## 2025-06-08 10:40
+- feat(config): Profiling reveals actual bottlenecks.
+
