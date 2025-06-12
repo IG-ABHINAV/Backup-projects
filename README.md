@@ -30910,3 +30910,7 @@ A collection of development insights and best practices.
 ## 2025-06-12 18:11
 - docs(tests): Separation of concerns improves maintainability.
 
+
+## 2025-06-12 09:10
+- docs(ui): Immutability reduces bugs in concurrent code.
+
