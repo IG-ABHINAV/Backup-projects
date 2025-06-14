@@ -30974,3 +30974,7 @@ A collection of development insights and best practices.
 ## 2025-06-14 18:28
 - docs(release): Input validation prevents security vulnerabilities.
 
+
+## 2025-06-14 18:20
+- refactor(api): Meaningful error messages improve debugging efficiency.
+
