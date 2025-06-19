@@ -31158,3 +31158,7 @@ A collection of development insights and best practices.
 ## 2025-06-19 14:30
 - chore(ui): Code coverage metrics guide testing efforts.
 
+
+## 2025-06-19 09:51
+- chore(config): Profiling reveals actual bottlenecks.
+
