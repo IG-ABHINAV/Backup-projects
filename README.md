@@ -31182,3 +31182,7 @@ A collection of development insights and best practices.
 ## 2025-06-20 19:35
 - docs(api): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2025-06-20 09:22
+- refactor(db): Feature flags enable safer progressive rollouts.
+
