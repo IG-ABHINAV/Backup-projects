@@ -31338,3 +31338,7 @@ A collection of development insights and best practices.
 ## 2025-06-25 18:38
 - refactor(deps): API design affects long-term maintainability.
 
+
+## 2025-06-25 21:20
+- docs(db): Edge cases reveal design weaknesses.
+
