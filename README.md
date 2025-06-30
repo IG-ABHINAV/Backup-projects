@@ -31522,3 +31522,7 @@ A collection of development insights and best practices.
 ## 2025-06-30 09:13
 - docs(ui): Configuration should be separate from code.
 
+
+## 2025-06-30 17:53
+- docs(api): Backups prevent catastrophic data loss.
+
