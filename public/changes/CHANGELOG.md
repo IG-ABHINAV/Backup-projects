@@ -1546,3 +1546,4 @@
 - [2025-06-28 20:13:42Z] refactor(api): Version control enables safe experimentation.
 - [2025-06-29 17:10:28Z] refactor(build): Learning from mistakes is part of growth.
 - [2025-06-29 15:33:26Z] refactor(db): KISS: Keep It Simple, Stupid.
+- [2025-06-30 19:09:00Z] refactor(db): Scalability should be planned, not retrofitted.

@@ -31530,3 +31530,7 @@ A collection of development insights and best practices.
 ## 2025-06-30 15:21
 - docs(docs): Monitoring provides visibility into system health.
 
+
+## 2025-06-30 19:09
+- refactor(db): Scalability should be planned, not retrofitted.
+
