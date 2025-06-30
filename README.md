@@ -31518,3 +31518,7 @@ A collection of development insights and best practices.
 ## 2025-06-30 17:19
 - docs(auth): Logging helps diagnose production issues.
 
+
+## 2025-06-30 09:13
+- docs(ui): Configuration should be separate from code.
+
