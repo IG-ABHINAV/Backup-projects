@@ -31510,3 +31510,7 @@ A collection of development insights and best practices.
 ## 2025-06-30 12:00
 - docs(db): Separation of concerns improves maintainability.
 
+
+## 2025-06-30 15:48
+- docs(api): Immutability reduces bugs in concurrent code.
+
