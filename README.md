@@ -31574,3 +31574,7 @@ A collection of development insights and best practices.
 ## 2025-07-01 13:05
 - docs(api): Input validation prevents security vulnerabilities.
 
+
+## 2025-07-02 17:13
+- docs(auth): Meaningful error messages improve debugging efficiency.
+
