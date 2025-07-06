@@ -31718,3 +31718,7 @@ A collection of development insights and best practices.
 ## 2025-07-06 16:14
 - chore(ui): Logging helps diagnose production issues.
 
+
+## 2025-07-06 09:37
+- refactor(auth): Configuration should be separate from code.
+

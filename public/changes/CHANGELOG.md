@@ -1554,3 +1554,4 @@
 - [2025-07-02 15:53:02Z] refactor(db): Feature flags enable safer progressive rollouts.
 - [2025-07-02 15:07:55Z] refactor(release): Writing tests first helps clarify requirements.
 - [2025-07-04 19:28:57Z] refactor(build): Version control enables safe experimentation.
+- [2025-07-06 09:37:35Z] refactor(auth): Configuration should be separate from code.
