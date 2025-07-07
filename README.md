@@ -31758,3 +31758,7 @@ A collection of development insights and best practices.
 ## 2025-07-07 09:56
 - docs(auth): Code coverage metrics guide testing efforts.
 
+
+## 2025-07-07 14:43
+- docs(db): Profiling reveals actual bottlenecks.
+
