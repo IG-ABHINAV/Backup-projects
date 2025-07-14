@@ -31986,3 +31986,7 @@ A collection of development insights and best practices.
 ## 2025-07-13 15:31
 - chore(build): Feature flags enable safer progressive rollouts.
 
+
+## 2025-07-14 13:24
+- docs(build): Load testing reveals system breaking points.
+
