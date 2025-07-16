@@ -1580,3 +1580,4 @@
 - [2025-07-15 18:26:40Z] perf(ui): Design patterns solve common problems elegantly.
 - [2025-07-15 16:23:06Z] perf(release): DRY principle: Don't Repeat Yourself.
 - [2025-07-16 10:45:59Z] refactor(api): Separation of concerns improves maintainability.
+- [2025-07-16 20:37:04Z] refactor(tests): Configuration should be separate from code.
