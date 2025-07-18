@@ -1582,3 +1582,4 @@
 - [2025-07-16 10:45:59Z] refactor(api): Separation of concerns improves maintainability.
 - [2025-07-16 20:37:04Z] refactor(tests): Configuration should be separate from code.
 - [2025-07-17 11:49:01Z] refactor(auth): Profiling reveals actual bottlenecks.
+- [2025-07-18 11:55:56Z] refactor(docs): Documentation should evolve with the codebase.
