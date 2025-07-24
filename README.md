@@ -32382,3 +32382,7 @@ A collection of development insights and best practices.
 ## 2025-07-24 10:31
 - docs(ui): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2025-07-24 18:29
+- refactor(config): Feature flags enable safer progressive rollouts.
+
