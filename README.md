@@ -32638,3 +32638,7 @@ A collection of development insights and best practices.
 ## 2025-07-31 20:38
 - docs(ui): Error handling is as important as the happy path.
 
+
+## 2025-08-01 12:32
+- docs(api): Security should be considered from the start.
+
