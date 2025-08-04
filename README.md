@@ -32738,3 +32738,7 @@ A collection of development insights and best practices.
 ## 2025-08-03 13:20
 - chore(config): API design affects long-term maintainability.
 
+
+## 2025-08-04 19:39
+- refactor(auth): Edge cases reveal design weaknesses.
+
