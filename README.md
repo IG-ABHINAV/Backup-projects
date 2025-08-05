@@ -32782,3 +32782,7 @@ A collection of development insights and best practices.
 ## 2025-08-05 20:49
 - feat(tests): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2025-08-05 18:30
+- refactor(db): Feature flags enable safer progressive rollouts.
+
