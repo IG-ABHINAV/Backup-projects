@@ -32938,3 +32938,7 @@ A collection of development insights and best practices.
 ## 2025-08-07 21:20
 - test(auth): API design affects long-term maintainability.
 
+
+## 2025-08-07 20:39
+- refactor(db): Edge cases reveal design weaknesses.
+
