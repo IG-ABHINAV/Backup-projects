@@ -33010,3 +33010,7 @@ A collection of development insights and best practices.
 ## 2025-08-09 11:31
 - docs(db): Writing tests first helps clarify requirements.
 
+
+## 2025-08-09 12:23
+- docs(ui): Code reviews catch bugs early and share knowledge.
+
