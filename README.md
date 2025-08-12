@@ -33130,3 +33130,7 @@ A collection of development insights and best practices.
 ## 2025-08-11 21:03
 - test(db): Monitoring provides visibility into system health.
 
+
+## 2025-08-12 12:04
+- docs(build): Scalability should be planned, not retrofitted.
+
