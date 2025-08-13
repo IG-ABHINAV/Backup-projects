@@ -33186,3 +33186,7 @@ A collection of development insights and best practices.
 ## 2025-08-13 15:16
 - docs(deps): Feature flags enable safer progressive rollouts.
 
+
+## 2025-08-13 21:41
+- docs(api): Load testing reveals system breaking points.
+
