@@ -33222,3 +33222,7 @@ A collection of development insights and best practices.
 ## 2025-08-14 13:22
 - docs(tests): Clean code is easier to understand and modify.
 
+
+## 2025-08-14 12:01
+- chore(db): Small, focused commits make debugging easier.
+
