@@ -33322,3 +33322,7 @@ A collection of development insights and best practices.
 ## 2025-08-17 09:00
 - docs(db): Configuration should be separate from code.
 
+
+## 2025-08-17 16:04
+- docs(docs): Backups prevent catastrophic data loss.
+
