@@ -33362,3 +33362,7 @@ A collection of development insights and best practices.
 ## 2025-08-18 12:50
 - docs(release): Profiling reveals actual bottlenecks.
 
+
+## 2025-08-18 20:37
+- docs(api): Database indexing dramatically improves query performance.
+
