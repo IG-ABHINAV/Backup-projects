@@ -33358,3 +33358,7 @@ A collection of development insights and best practices.
 ## 2025-08-18 12:49
 - refactor(ui): Code coverage metrics guide testing efforts.
 
+
+## 2025-08-18 12:50
+- docs(release): Profiling reveals actual bottlenecks.
+
