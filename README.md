@@ -33498,3 +33498,7 @@ A collection of development insights and best practices.
 ## 2025-08-22 16:38
 - refactor(docs): DRY principle: Don't Repeat Yourself.
 
+
+## 2025-08-22 09:20
+- docs(ui): YAGNI: You Aren't Gonna Need It.
+
