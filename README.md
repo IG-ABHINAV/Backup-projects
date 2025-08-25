@@ -33594,3 +33594,7 @@ A collection of development insights and best practices.
 ## 2025-08-25 20:38
 - docs(build): Continuous integration catches integration issues early.
 
+
+## 2025-08-25 18:37
+- docs(db): Documentation should evolve with the codebase.
+
