@@ -33762,3 +33762,7 @@ A collection of development insights and best practices.
 ## 2025-08-30 10:24
 - chore(db): Profiling reveals actual bottlenecks.
 
+
+## 2025-08-30 12:46
+- test(db): Database indexing dramatically improves query performance.
+
