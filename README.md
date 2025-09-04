@@ -33918,3 +33918,7 @@ A collection of development insights and best practices.
 ## 2025-09-04 15:20
 - docs(release): Logging helps diagnose production issues.
 
+
+## 2025-09-04 21:01
+- docs(docs): Configuration should be separate from code.
+
