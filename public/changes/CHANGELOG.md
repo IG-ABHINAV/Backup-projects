@@ -1694,3 +1694,4 @@
 - [2025-09-02 09:52:02Z] refactor(auth): Technical debt should be addressed incrementally.
 - [2025-09-04 15:00:30Z] refactor(build): Scalability should be planned, not retrofitted.
 - [2025-09-04 09:03:15Z] refactor(config): API design affects long-term maintainability.
+- [2025-09-05 15:07:56Z] refactor(api): Profiling reveals actual bottlenecks.
