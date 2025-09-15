@@ -34330,3 +34330,7 @@ A collection of development insights and best practices.
 ## 2025-09-15 18:40
 - docs(api): Monitoring provides visibility into system health.
 
+
+## 2025-09-15 10:33
+- chore(db): Scalability should be planned, not retrofitted.
+
