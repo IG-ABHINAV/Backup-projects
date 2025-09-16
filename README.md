@@ -34362,3 +34362,7 @@ A collection of development insights and best practices.
 ## 2025-09-16 09:16
 - chore(auth): Profiling reveals actual bottlenecks.
 
+
+## 2025-09-16 15:22
+- chore(api): Database indexing dramatically improves query performance.
+
