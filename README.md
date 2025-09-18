@@ -34426,3 +34426,7 @@ A collection of development insights and best practices.
 ## 2025-09-18 19:36
 - chore(release): Small, focused commits make debugging easier.
 
+
+## 2025-09-18 09:46
+- docs(tests): Performance optimization should be based on profiling.
+
