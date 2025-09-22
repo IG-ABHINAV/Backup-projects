@@ -34558,3 +34558,7 @@ A collection of development insights and best practices.
 ## 2025-09-21 13:18
 - chore(db): Code coverage metrics guide testing efforts.
 
+
+## 2025-09-22 18:33
+- refactor(config): Profiling reveals actual bottlenecks.
+

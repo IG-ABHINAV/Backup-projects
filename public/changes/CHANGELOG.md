@@ -1730,3 +1730,4 @@
 - [2025-09-20 16:39:34Z] refactor(deps): Configuration should be separate from code.
 - [2025-09-21 17:13:38Z] refactor(api): Scalability should be planned, not retrofitted.
 - [2025-09-21 14:29:48Z] refactor(config): Build automation ensures consistency.
+- [2025-09-22 18:33:49Z] refactor(config): Profiling reveals actual bottlenecks.
