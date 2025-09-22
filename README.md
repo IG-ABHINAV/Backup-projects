@@ -34586,3 +34586,7 @@ A collection of development insights and best practices.
 ## 2025-09-22 19:53
 - chore(auth): Feature flags enable safer progressive rollouts.
 
+
+## 2025-09-22 13:26
+- refactor(ui): Load testing reveals system breaking points.
+
