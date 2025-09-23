@@ -34610,3 +34610,7 @@ A collection of development insights and best practices.
 ## 2025-09-23 19:00
 - refactor(build): Writing tests first helps clarify requirements.
 
+
+## 2025-09-23 11:12
+- test(tests): Code reviews catch bugs early and share knowledge.
+
