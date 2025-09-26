@@ -34710,3 +34710,7 @@ A collection of development insights and best practices.
 ## 2025-09-26 17:29
 - refactor(db): Separation of concerns improves maintainability.
 
+
+## 2025-09-26 11:12
+- refactor(auth): Immutability reduces bugs in concurrent code.
+
