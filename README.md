@@ -34738,3 +34738,7 @@ A collection of development insights and best practices.
 ## 2025-09-27 18:12
 - test(release): API design affects long-term maintainability.
 
+
+## 2025-09-27 12:39
+- docs(api): Edge cases reveal design weaknesses.
+
