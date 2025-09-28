@@ -34774,3 +34774,7 @@ A collection of development insights and best practices.
 ## 2025-09-28 09:21
 - docs(ui): Input validation prevents security vulnerabilities.
 
+
+## 2025-09-28 11:06
+- docs(docs): Meaningful error messages improve debugging efficiency.
+
