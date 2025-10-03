@@ -34930,3 +34930,7 @@ A collection of development insights and best practices.
 ## 2025-10-03 21:10
 - chore(auth): Monitoring provides visibility into system health.
 
+
+## 2025-10-03 10:38
+- test(auth): Scalability should be planned, not retrofitted.
+
