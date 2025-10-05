@@ -35038,3 +35038,7 @@ A collection of development insights and best practices.
 ## 2025-10-05 14:07
 - feat(auth): Error handling is as important as the happy path.
 
+
+## 2025-10-05 14:46
+- docs(docs): Security should be considered from the start.
+
