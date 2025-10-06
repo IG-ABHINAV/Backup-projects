@@ -35074,3 +35074,7 @@ A collection of development insights and best practices.
 ## 2025-10-06 11:43
 - docs(auth): Understanding the problem deeply leads to better solutions.
 
+
+## 2025-10-06 19:12
+- docs(auth): Code should be optimized for readability first.
+
