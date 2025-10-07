@@ -35122,3 +35122,7 @@ A collection of development insights and best practices.
 ## 2025-10-07 17:53
 - docs(build): Configuration should be separate from code.
 
+
+## 2025-10-07 20:08
+- chore(db): Backups prevent catastrophic data loss.
+
