@@ -35182,3 +35182,7 @@ A collection of development insights and best practices.
 ## 2025-10-09 19:22
 - test(build): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2025-10-09 09:01
+- chore(api): Feature flags enable safer progressive rollouts.
+
