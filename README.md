@@ -35274,3 +35274,7 @@ A collection of development insights and best practices.
 ## 2025-10-12 19:23
 - docs(tests): Understanding the problem deeply leads to better solutions.
 
+
+## 2025-10-12 18:46
+- docs(build): Code should be optimized for readability first.
+
