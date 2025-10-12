@@ -35270,3 +35270,7 @@ A collection of development insights and best practices.
 ## 2025-10-11 21:45
 - docs(auth): Regular refactoring prevents code decay.
 
+
+## 2025-10-12 19:23
+- docs(tests): Understanding the problem deeply leads to better solutions.
+
