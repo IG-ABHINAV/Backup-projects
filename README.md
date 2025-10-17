@@ -35438,3 +35438,7 @@ A collection of development insights and best practices.
 ## 2025-10-17 19:34
 - docs(db): Error handling is as important as the happy path.
 
+
+## 2025-10-17 16:16
+- refactor(docs): Security should be considered from the start.
+
