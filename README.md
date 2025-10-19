@@ -35498,3 +35498,7 @@ A collection of development insights and best practices.
 ## 2025-10-18 13:27
 - chore(api): DRY principle: Don't Repeat Yourself.
 
+
+## 2025-10-19 20:42
+- chore(ui): YAGNI: You Aren't Gonna Need It.
+
