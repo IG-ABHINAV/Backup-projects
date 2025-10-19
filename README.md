@@ -35526,3 +35526,7 @@ A collection of development insights and best practices.
 ## 2025-10-19 18:30
 - docs(tests): Backups prevent catastrophic data loss.
 
+
+## 2025-10-19 15:27
+- docs(auth): Monitoring provides visibility into system health.
+
