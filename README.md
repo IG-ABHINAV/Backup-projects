@@ -35538,3 +35538,7 @@ A collection of development insights and best practices.
 ## 2025-10-20 17:18
 - chore(db): API design affects long-term maintainability.
 
+
+## 2025-10-20 17:56
+- chore(ui): Edge cases reveal design weaknesses.
+
