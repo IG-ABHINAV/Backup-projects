@@ -35610,3 +35610,7 @@ A collection of development insights and best practices.
 ## 2025-10-22 17:55
 - refactor(docs): Writing tests first helps clarify requirements.
 
+
+## 2025-10-22 17:42
+- test(api): Code reviews catch bugs early and share knowledge.
+
