@@ -35718,3 +35718,7 @@ A collection of development insights and best practices.
 ## 2025-10-25 21:05
 - test(tests): Logging helps diagnose production issues.
 
+
+## 2025-10-25 19:04
+- docs(db): Configuration should be separate from code.
+
