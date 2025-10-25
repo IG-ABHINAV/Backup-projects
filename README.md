@@ -35730,3 +35730,7 @@ A collection of development insights and best practices.
 ## 2025-10-25 21:09
 - docs(docs): Monitoring provides visibility into system health.
 
+
+## 2025-10-25 15:35
+- docs(api): Scalability should be planned, not retrofitted.
+
