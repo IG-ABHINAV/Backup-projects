@@ -35758,3 +35758,7 @@ A collection of development insights and best practices.
 ## 2025-10-26 11:07
 - refactor(api): Code coverage metrics guide testing efforts.
 
+
+## 2025-10-26 14:30
+- chore(deps): Profiling reveals actual bottlenecks.
+
