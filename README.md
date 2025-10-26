@@ -35762,3 +35762,7 @@ A collection of development insights and best practices.
 ## 2025-10-26 14:30
 - chore(deps): Profiling reveals actual bottlenecks.
 
+
+## 2025-10-26 17:15
+- chore(tests): Database indexing dramatically improves query performance.
+
