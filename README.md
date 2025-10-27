@@ -35782,3 +35782,7 @@ A collection of development insights and best practices.
 ## 2025-10-27 12:59
 - refactor(auth): Code duplication increases maintenance burden unnecessarily.
 
+
+## 2025-10-27 13:52
+- docs(db): Feature flags enable safer progressive rollouts.
+
