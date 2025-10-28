@@ -35810,3 +35810,7 @@ A collection of development insights and best practices.
 ## 2025-10-28 13:59
 - docs(docs): Writing tests first helps clarify requirements.
 
+
+## 2025-10-28 12:31
+- chore(api): Code reviews catch bugs early and share knowledge.
+
