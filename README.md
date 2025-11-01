@@ -35962,3 +35962,7 @@ A collection of development insights and best practices.
 ## 2025-11-01 18:14
 - refactor(api): Profiling reveals actual bottlenecks.
 
+
+## 2025-11-01 11:01
+- test(config): Database indexing dramatically improves query performance.
+
