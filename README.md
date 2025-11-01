@@ -35938,3 +35938,7 @@ A collection of development insights and best practices.
 ## 2025-11-01 09:23
 - chore(docs): API design affects long-term maintainability.
 
+
+## 2025-11-01 11:47
+- test(docs): Edge cases reveal design weaknesses.
+
