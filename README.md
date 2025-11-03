@@ -36010,3 +36010,7 @@ A collection of development insights and best practices.
 ## 2025-11-03 11:37
 - docs(build): Writing tests first helps clarify requirements.
 
+
+## 2025-11-03 17:08
+- chore(release): Code reviews catch bugs early and share knowledge.
+
