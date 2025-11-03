@@ -35998,3 +35998,7 @@ A collection of development insights and best practices.
 ## 2025-11-02 20:51
 - docs(db): Documentation should evolve with the codebase.
 
+
+## 2025-11-03 19:13
+- chore(db): Type safety catches errors at compile time.
+
