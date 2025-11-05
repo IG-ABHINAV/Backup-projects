@@ -1,0 +1,173 @@
+name: Daily Commits
+
+on:
+  schedule:
+    # Run twice daily: 8 AM and 8 PM UTC
+    - cron: '0 8 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  commit-thoughts:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up PowerShell
+        shell: pwsh
+        run: |
+          Write-Host "PowerShell version: $($PSVersionTable.PSVersion)"
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Check daily commit count
+        id: check_commits
+        shell: pwsh
+        run: |
+          $today = Get-Date -Format "yyyy-MM-dd"
+          $commitCount = (git log --since="$today 00:00:00" --until="$today 23:59:59" --oneline | Measure-Object).Count
+          Write-Host "Commits today: $commitCount"
+          echo "current_count=$commitCount" >> $env:GITHUB_OUTPUT
+          
+          # Calculate remaining commits allowed (max 8/day)
+          $remaining = 8 - $commitCount
+          if ($remaining -le 0) {
+            Write-Host "Daily limit reached (8 commits)"
+            echo "should_run=false" >> $env:GITHUB_OUTPUT
+          } else {
+            Write-Host "Can add $remaining more commits today"
+            echo "should_run=true" >> $env:GITHUB_OUTPUT
+            echo "remaining=$remaining" >> $env:GITHUB_OUTPUT
+          }
+      
+      - name: Generate and commit thoughts
+        if: steps.check_commits.outputs.should_run == 'true'
+        shell: pwsh
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          # Calculate random commits for this run (1-5, but not exceeding daily limit)
+          $remaining = [int]"${{ steps.check_commits.outputs.remaining }}"
+          $maxThisRun = [Math]::Min(5, $remaining)
+          $numCommits = Get-Random -Minimum 1 -Maximum ($maxThisRun + 1)
+          
+          Write-Host "Will create $numCommits commits (remaining today: $remaining)"
+          
+          # Fallback thoughts if AI fails
+          $fallbackThoughts = @(
+            "Refactoring improves code maintainability and readability.",
+            "Writing tests first helps clarify requirements.",
+            "Code reviews catch bugs early and share knowledge.",
+            "Documentation is essential for team collaboration.",
+            "Clean code is easier to understand and modify.",
+            "Small, focused commits make debugging easier.",
+            "Performance optimization should be based on profiling.",
+            "Consistency in coding style reduces cognitive load.",
+            "Error handling is as important as the happy path.",
+            "Security should be considered from the start.",
+            "Automated testing saves time in the long run.",
+            "Simple solutions are often the best solutions.",
+            "Technical debt should be addressed incrementally.",
+            "Good naming makes code self-documenting.",
+            "Modular design enables easier testing and reuse.",
+            "Version control enables safe experimentation.",
+            "Regular refactoring prevents code decay.",
+            "Understanding the problem deeply leads to better solutions.",
+            "Code should be optimized for readability first.",
+            "Incremental changes reduce risk.",
+            "Learning from mistakes is part of growth.",
+            "Collaboration enhances solution quality.",
+            "Design patterns solve common problems elegantly.",
+            "DRY principle: Don't Repeat Yourself.",
+            "YAGNI: You Aren't Gonna Need It.",
+            "KISS: Keep It Simple, Stupid.",
+            "Separation of concerns improves maintainability.",
+            "Immutability reduces bugs in concurrent code.",
+            "Logging helps diagnose production issues.",
+            "Configuration should be separate from code."
+          )
+          
+          $thoughts = $fallbackThoughts
+          
+          # Try to get AI-generated thoughts
+          if ($env:OPENROUTER_API_KEY) {
+            Write-Host "Attempting to generate AI thoughts..."
+            try {
+              $prompt = "Generate exactly $numCommits unique, insightful thoughts about software development, coding best practices, engineering principles, and developer wisdom. Requirements: Each thought should be 1 concise sentence (10-15 words), focus on practical and actionable advice, no numbering or bullet points, one thought per line."
+              
+              $body = @{
+                model = "minimax/minimax-m2:free"
+                messages = @(
+                  @{
+                    role = "user"
+                    content = $prompt
+                  }
+                )
+                temperature = 0.8
+                max_tokens = 500
+              } | ConvertTo-Json -Depth 10
+              
+              $headers = @{
+                "Authorization" = "Bearer $env:OPENROUTER_API_KEY"
+                "Content-Type" = "application/json"
+                "HTTP-Referer" = "https://github.com/${{ github.repository }}"
+              }
+              
+              $response = Invoke-RestMethod -Uri "https://openrouter.ai/api/v1/chat/completions" `
+                -Method Post `
+                -Headers $headers `
+                -Body $body `
+                -TimeoutSec 30
+              
+              $aiThoughts = $response.choices[0].message.content -split "`n" | Where-Object { $_.Trim() -ne "" -and $_.Length -gt 20 }
+              
+              if ($aiThoughts -and $aiThoughts.Count -ge $numCommits) {
+                $thoughts = $aiThoughts[0..($numCommits-1)]
+                Write-Host "Using AI-generated thoughts"
+              }
+            }
+            catch {
+              Write-Warning "AI generation failed: $($_.Exception.Message). Using fallback."
+            }
+          }
+          
+          # Create commits
+          for ($i = 0; $i -lt $numCommits; $i++) {
+            $thought = $thoughts[$i % $thoughts.Count]
+            $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
+            
+            # Ensure README.md exists
+            if (-not (Test-Path "README.md")) {
+              "# Backup Projects`n`nA collection of development insights and best practices.`n" | Out-File -FilePath "README.md" -Encoding UTF8
+            }
+            
+            # Add thought to README
+            $entry = "`n## $timestamp`n- $thought`n"
+            Add-Content -Path "README.md" -Value $entry -Force
+            
+            # Wait a moment to ensure file is released
+            Start-Sleep -Milliseconds 200
+            
+            # Commit
+            git add README.md
+            git commit -m "docs: $thought"
+            
+            Write-Host "  [$($i+1)/$numCommits] Committed: $thought"
+            
+            # Small delay between commits
+            Start-Sleep -Seconds 2
+          }
+      
+      - name: Push changes
+        if: steps.check_commits.outputs.should_run == 'true'
+        run: |
+          git push
+          echo "Successfully pushed commits"
