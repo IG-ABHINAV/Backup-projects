@@ -36130,3 +36130,7 @@ A collection of development insights and best practices.
 ## 2025-11-07 19:43
 - refactor(build): Monitoring provides visibility into system health.
 
+
+## 2025-11-07 17:39
+- docs(ui): Scalability should be planned, not retrofitted.
+
