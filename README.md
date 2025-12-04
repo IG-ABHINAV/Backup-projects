@@ -566,3 +566,7 @@ A collection of development insights and best practices.
 ## 2025-12-04 08:23
 - Code reviews catch bugs early and share knowledge.
 
+
+## 2025-12-04 08:23
+- Documentation is essential for team collaboration.
+
