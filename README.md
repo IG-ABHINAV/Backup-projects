@@ -1826,3 +1826,7 @@ A collection of development insights and best practices.
 ## 2026-01-29 08:33
 - Refactoring improves code maintainability and readability.
 
+
+## 2026-01-29 08:33
+- Writing tests first helps clarify requirements.
+
