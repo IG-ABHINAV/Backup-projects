@@ -1946,3 +1946,7 @@ A collection of development insights and best practices.
 ## 2026-02-03 20:29
 - Writing tests first helps clarify requirements.
 
+
+## 2026-02-03 20:30
+- Code reviews catch bugs early and share knowledge.
+
